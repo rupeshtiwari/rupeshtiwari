@@ -11,6 +11,11 @@ I conduct software development trainings. Visit my YouTube channel [Fullstackmas
 
 > You bright future is waiting for you so visit today www.fullstackmaster.net and allow me to help you to board on your dream software architect/lead role.
 
+# 📩 Latest Blog Posts  
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 💖 Contact Details: Say 👋 to me!
