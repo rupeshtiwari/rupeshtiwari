@@ -1,9 +1,3 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to learn with me?
----
-
 # Rupesh Tiwari
 
 My name is Rupesh Tiwari. I am Sr. Software/Solution Architect, Professional Trainer & Pluralsight Author. I help students and professionals to become Full Stack Software Developer in just 3 months!
@@ -16,3 +10,13 @@ I conduct software development trainings. Visit my YouTube channel [Fullstackmas
 - Please subscribe to [All Access Membership Elite](www.fullstackmaster.net/elite) to get everything from PRO plan. Additionally you will get access to monthly live Q&A video call with Rupesh and ask doubts and get more tips and tricks.
 
 > You bright future is waiting for you so visit today www.fullstackmaster.net and allow me to help you to board on your dream software architect/lead role.
+
+---
+
+### 💖 Contact Details: Say 👋 to me!
+
+Rupesh Tiwari\
+www.rupeshtiwari.com \
+✉️ <fullstackmaster1@gmail.com> \
+Founder of [www.fullstackmaster.net](https://www.fullstackmaster.net) 🎓 \
+[<img src="https://i.imgur.com/9OCLciM.png" width="295" height="65">](http://www.fullstackmaster.net)
