@@ -14,6 +14,7 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating CkEditor In Nx Monorepo](https://rupeshtiwari.github.io/2021-02-01-integrating-ckeditor-in-nx-monorepo/)
 - [Dependency Constraints in Nx Monorepo Projects](https://rupeshtiwari.github.io/2021-01-30-enforcing-dependency-constraints-in-nx-monorepo-projects/)
 <!-- BLOG-POST-LIST:END -->
 
