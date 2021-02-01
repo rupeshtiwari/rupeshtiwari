@@ -17,8 +17,8 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 - [Publishing Jekyll Blog Post to DevTo using GitHub CI and CD Pipeline](https://rupeshtiwari.github.io/2021-02-01-publishing-jekyll-blog-post-to-dev-to-using-github-ci-cd-pipeline/)
 - [Integrating CkEditor In Nx Monorepo](https://rupeshtiwari.github.io/2021-02-01-integrating-ckeditor-in-nx-monorepo/)
 - [Dependency Constraints in Nx Monorepo Projects](https://rupeshtiwari.github.io/2021-01-30-enforcing-dependency-constraints-in-nx-monorepo-projects/)
+- [Introduction to YAML](https://rupeshtiwari.github.io/2021-01-28-introduction-to-yaml/)
 - [How JWT Authentication overcomes shortcomings of other authentication types](https://rupeshtiwari.github.io/how-jwt-authentication-overcomes-shortcomings-of-other-authentication-types/)
-- [Type of Authentication - JWT Authentication](https://rupeshtiwari.github.io/type-of-authentication-jwt-authentication/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
