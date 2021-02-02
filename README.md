@@ -18,7 +18,7 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 - [Publishing Jekyll Blog Post to DevTo using GitHub CI and CD Pipeline](https://rupeshtiwari.github.io/2021-02-01-publishing-jekyll-blog-post-to-dev-to-using-github-ci-cd-pipeline/)
 - [Integrating CkEditor In Nx Monorepo](https://rupeshtiwari.github.io/2021-02-01-integrating-ckeditor-in-nx-monorepo/)
 - [Dependency Constraints in Nx Monorepo Projects](https://rupeshtiwari.github.io/2021-01-30-enforcing-dependency-constraints-in-nx-monorepo-projects/)
-- [Sharing Variables within Tasks in Azure CI Pipeline](https://rupeshtiwari.github.io/2021-01-29-sharing-variables-within-tasks-in-azure-ci-pipeline/)
+- [Publishing Nx Monorepo Test Results in Azure CI Pipeline](https://rupeshtiwari.github.io/2021-01-29-publishing-nx-monorepo-test-results-in-azure-ci-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
