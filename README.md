@@ -14,8 +14,8 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing CSS in Angular App for Cross Browsers and OS Cross Browsers and OS Managing CSS in Angular App for Managing CSS in Angular App for Cross Browsers and OS Cross Browsers and OS Managing CSS in Angular App for](https://rupeshtiwari.github.io/2021-02-03-managing-css-in-angular-app-for-cross-browsers-and-os/)
-- [Merge and Publish Code Coverage for Nx Workspace in Azure CI Pipeline](https://rupeshtiwari.github.io/2021-02-01-merge-and-publish-code-coverage-for-nx-workspace-in-azure-ci-pipeline/)
+- [Managing CSS in Angular App for Cross Browsers and OS](https://rupeshtiwari.github.io/2021-02-03-managing-css-in-angular-app-for-cross-browsers-and-os/)
+- [Publishing Merged Code Coverage Report of Nx Workspace in Azure CI Pipeline](https://rupeshtiwari.github.io/2021-02-01-merge-and-publish-code-coverage-for-nx-workspace-in-azure-ci-pipeline/)
 - [Publishing Jekyll Blog Post to DevTo using GitHub CI and CD Pipeline](https://rupeshtiwari.github.io/2021-02-01-publishing-jekyll-blog-post-to-dev-to-using-github-ci-cd-pipeline/)
 - [Integrating CkEditor In Nx Monorepo](https://rupeshtiwari.github.io/2021-02-01-integrating-ckeditor-in-nx-monorepo/)
 - [Calling Node.js Script from Azure CI Pipeline](https://rupeshtiwari.github.io/2021-01-30-calling-node-js-script-from-azure-ci-pipeline/)
