@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating NPMRC in Windows Developer Box for Azure DevOps Server](https://rupeshtiwari.github.io/2021-02-13-setting-up-npmrc-in-windows-developer-box-for-azure-devops-server/)
-- [Authenticating GIT on Development Box](https://rupeshtiwari.github.io/2021-02-12-authenticating-git-on-development-box/)
-- [Conventional Git Commit Messages and Linting](https://rupeshtiwari.github.io/2021-02-08-conventional-git-commit-messages-and-linting/)
-- [Running Angular 10 in Internet Explorer 11](https://rupeshtiwari.github.io/2021-02-03-running-angular-10-in-internet-explorer-11-date-2021-02-04/)
-- [Managing CSS in Angular App for Cross Browsers and OS](https://rupeshtiwari.github.io/2021-02-03-managing-css-in-angular-app-for-cross-browsers-and-os/)
+- [Creating NPMRC in Windows Developer Box for Azure DevOps Server](http://www.rupeshtiwari.com/2021-02-13-setting-up-npmrc-in-windows-developer-box-for-azure-devops-server/)
+- [Authenticating GIT on Development Box](http://www.rupeshtiwari.com/2021-02-12-authenticating-git-on-development-box/)
+- [Conventional Git Commit Messages and Linting](http://www.rupeshtiwari.com/2021-02-08-conventional-git-commit-messages-and-linting/)
+- [Running Angular 10 in Internet Explorer 11](http://www.rupeshtiwari.com/2021-02-03-running-angular-10-in-internet-explorer-11-date-2021-02-04/)
+- [Managing CSS in Angular App for Cross Browsers and OS](http://www.rupeshtiwari.com/2021-02-03-managing-css-in-angular-app-for-cross-browsers-and-os/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
