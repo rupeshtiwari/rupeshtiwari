@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing Code Coverage in Azure CI Pipeline](https://rupeshtiwari.github.io/publishing-code-coverage-in-azure-ci-pipeline/)
-- [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://rupeshtiwari.github.io/fixing-nrwl-nx-monorepo-dependency-graph-error/)
-- [Scheduling Jekyll Post on GitHub Pages](https://rupeshtiwari.github.io/scheduling-jekyll-post-on-github-pages/)
-- [Restoring and Publishing NPM Packages from Azure CI Pipeline](https://rupeshtiwari.github.io/restoring-and-publishing-npm-from-azure-ci-pipeline/)
-- [Adding Tag to GIT Branch in Azure CI Pipelines](https://rupeshtiwari.github.io/adding-tag-to-git-branch-in-azure-ci-pipelines/)
+- [Publishing Code Coverage in Azure CI Pipeline](https://www.rupeshtiwari.com/publishing-code-coverage-in-azure-ci-pipeline/)
+- [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://www.rupeshtiwari.com/fixing-nrwl-nx-monorepo-dependency-graph-error/)
+- [Scheduling Jekyll Post on GitHub Pages](https://www.rupeshtiwari.com/scheduling-jekyll-post-on-github-pages/)
+- [Restoring and Publishing NPM Packages from Azure CI Pipeline](https://www.rupeshtiwari.com/restoring-and-publishing-npm-from-azure-ci-pipeline/)
+- [Adding Tag to GIT Branch in Azure CI Pipelines](https://www.rupeshtiwari.com/adding-tag-to-git-branch-in-azure-ci-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
