@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Tag to GIT Branch in Azure CI Pipelines](https://www.rupeshtiwari.com/2021-02-20-adding-tag-to-git-branch-in-azure-ci-pipelines/)
-- [Creating NPMRC in Windows Developer Box for Azure DevOps Server](https://www.rupeshtiwari.com/2021-02-13-setting-up-npmrc-in-windows-developer-box-for-azure-devops-server/)
-- [Authenticating GIT on Development Box](https://www.rupeshtiwari.com/2021-02-12-authenticating-git-on-development-box/)
-- [Conventional Git Commit Messages and Linting](https://www.rupeshtiwari.com/2021-02-08-conventional-git-commit-messages-and-linting/)
-- [Running Angular 10 in Internet Explorer 11](https://www.rupeshtiwari.com/2021-02-03-running-angular-10-in-internet-explorer-11-date-2021-02-04/)
+- [Publishing Code Coverage in Azure CI Pipeline](https://rupeshtiwari.github.io/publishing-code-coverage-in-azure-ci-pipeline/)
+- [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://rupeshtiwari.github.io/fixing-nrwl-nx-monorepo-dependency-graph-error/)
+- [Scheduling Jekyll Post on GitHub Pages](https://rupeshtiwari.github.io/scheduling-jekyll-post-on-github-pages/)
+- [Restoring and Publishing NPM Packages from Azure CI Pipeline](https://rupeshtiwari.github.io/restoring-and-publishing-npm-from-azure-ci-pipeline/)
+- [Adding Tag to GIT Branch in Azure CI Pipelines](https://rupeshtiwari.github.io/adding-tag-to-git-branch-in-azure-ci-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
