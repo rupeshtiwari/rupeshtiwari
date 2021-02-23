@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing Code Coverage in Azure CI Pipeline](https://www.rupeshtiwari.com/publishing-code-coverage-in-azure-ci-pipeline/)
-- [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://www.rupeshtiwari.com/fixing-nrwl-nx-monorepo-dependency-graph-error/)
-- [Scheduling Jekyll Post on GitHub Pages](https://www.rupeshtiwari.com/scheduling-jekyll-post-on-github-pages/)
-- [Restoring and Publishing NPM Packages from Azure CI Pipeline](https://www.rupeshtiwari.com/restoring-and-publishing-npm-from-azure-ci-pipeline/)
 - [Adding Tag to GIT Branch in Azure CI Pipelines](https://www.rupeshtiwari.com/adding-tag-to-git-branch-in-azure-ci-pipelines/)
+- [Creating NPMRC in Windows Developer Box for Azure DevOps Server](https://www.rupeshtiwari.com/setting-up-npmrc-in-windows-developer-box-for-azure-devops-server/)
+- [Authenticating GIT on Development Box](https://www.rupeshtiwari.com/authenticating-git-on-development-box/)
+- [Conventional Git Commit Messages and Linting](https://www.rupeshtiwari.com/conventional-git-commit-messages-and-linting/)
+- [Running Angular 10 in Internet Explorer 11](https://www.rupeshtiwari.com/running-angular-10-in-internet-explorer-11-date-2021-02-04/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
