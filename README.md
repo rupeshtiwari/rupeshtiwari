@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scheduling Jekyll Post on GitHub Pages](https://www.rupeshtiwari.com/blog/scheduling-jekyll-post-on-github-pages/)
+- [Restoring and Publishing NPM Packages from Azure CI Pipeline](https://www.rupeshtiwari.com/blog/restoring-and-publishing-npm-from-azure-ci-pipeline/)
 - [Caching Pipeline Not Working in Azure DevOps Server 2020](https://www.rupeshtiwari.com/blog/devops/caching-pipeline-not-working-in-azure-devops-server-2020/)
 - [Adding Tag to GIT Branch in Azure CI Pipelines](https://www.rupeshtiwari.com/blog/adding-tag-to-git-branch-in-azure-ci-pipelines/)
 - [Creating NPMRC in Windows Developer Box for Azure DevOps Server](https://www.rupeshtiwari.com/blog/setting-up-npmrc-in-windows-developer-box-for-azure-devops-server/)
-- [Authenticating GIT on Development Box](https://www.rupeshtiwari.com/blog/authenticating-git-on-development-box/)
-- [Conventional Git Commit Messages and Linting](https://www.rupeshtiwari.com/blog/conventional-git-commit-messages-and-linting/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
