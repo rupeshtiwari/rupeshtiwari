@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Publishing Code Coverage in Azure CI Pipeline](https://www.rupeshtiwari.com/blog/publishing-code-coverage-in-azure-ci-pipeline/)
 - [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://www.rupeshtiwari.com/blog/fixing-nrwl-nx-monorepo-dependency-graph-error/)
 - [Scheduling Jekyll Post on GitHub Pages](https://www.rupeshtiwari.com/blog/scheduling-jekyll-post-on-github-pages/)
 - [Restoring and Publishing NPM Packages from Azure CI Pipeline](https://www.rupeshtiwari.com/blog/restoring-and-publishing-npm-from-azure-ci-pipeline/)
 - [Caching Pipeline Not Working in Azure DevOps Server 2020](https://www.rupeshtiwari.com/blog/devops/caching-pipeline-not-working-in-azure-devops-server-2020/)
-- [Adding Tag to GIT Branch in Azure CI Pipelines](https://www.rupeshtiwari.com/blog/adding-tag-to-git-branch-in-azure-ci-pipelines/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
