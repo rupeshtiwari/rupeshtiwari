@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Importing WordPress or Blogger Blogs to Jekyll Blog](https://www.rupeshtiwari.com/blog/writing/importing-wordpress-or-blogger-blogs-to-jekyll-blog/)
 - [Building Blog with Jekyll and GitHub Pages on Windows](https://www.rupeshtiwari.com/blog/writing/building-blog-with-jekyll-and-github-pages-on-windows/)
 - [Azure DevOps Server 2020 Do’s &amp; Don’t](https://www.rupeshtiwari.com/blog/devops/azure-devops-server-2020-dos-dont/)
 - [Publishing Code Coverage in Azure CI Pipeline](https://www.rupeshtiwari.com/blog/publishing-code-coverage-in-azure-ci-pipeline/)
 - [Fixing Nrwl Nx Monorepo Workspace Dependency Graph Error](https://www.rupeshtiwari.com/blog/fixing-nrwl-nx-monorepo-dependency-graph-error/)
-- [Scheduling Jekyll Post on GitHub Pages](https://www.rupeshtiwari.com/blog/scheduling-jekyll-post-on-github-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
