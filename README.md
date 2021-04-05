@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Functions Basics](https://www.rupeshtiwari.com/blog/azure-functions-basics/)
-- [Azure Cosmos DB Basics](https://www.rupeshtiwari.com/blog/azure-cosmos-db-basics/)
-- [Angular Service as PubSub Message Handler](https://www.rupeshtiwari.com/blog/soa/angular-service-as-message-handler/)
-- [Importing WordPress or Blogger Blogs to Jekyll Blog](https://www.rupeshtiwari.com/blog/writing/importing-wordpress-or-blogger-blogs-to-jekyll-blog/)
-- [Building Blog with Jekyll and GitHub Pages on Windows](https://www.rupeshtiwari.com/blog/writing/building-blog-with-jekyll-and-github-pages-on-windows/)
+- [Azure Cosmos DB Basics](https://www.rupeshtiwari.com/azure-cosmos-db-basics/)
+- [Angular Service as PubSub Message Handler](https://www.rupeshtiwari.com/soa/angular-service-as-message-handler/)
+- [Importing WordPress or Blogger Blogs to Jekyll Blog](https://www.rupeshtiwari.com/writing/importing-wordpress-or-blogger-blogs-to-jekyll-blog/)
+- [Building Blog with Jekyll and GitHub Pages on Windows](https://www.rupeshtiwari.com/writing/building-blog-with-jekyll-and-github-pages-on-windows/)
+- [Azure DevOps Server 2020 Do’s &amp; Don’t](https://www.rupeshtiwari.com/devops/azure-devops-server-2020-dos-dont/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
