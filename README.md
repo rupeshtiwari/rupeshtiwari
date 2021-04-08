@@ -14,11 +14,11 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Isolated Process Models for Workers](https://www.rupeshtiwari.com/isolated-process-models-for-workers/)
 - [Azure Functions Basics](https://www.rupeshtiwari.com/azure-functions-basics/)
 - [Azure Cosmos DB Basics](https://www.rupeshtiwari.com/azure-cosmos-db-basics/)
 - [Angular Service as PubSub Message Handler](https://www.rupeshtiwari.com/soa/angular-service-as-message-handler/)
 - [Importing WordPress or Blogger Blogs to Jekyll Blog](https://www.rupeshtiwari.com/writing/importing-wordpress-or-blogger-blogs-to-jekyll-blog/)
-- [Building Blog with Jekyll and GitHub Pages on Windows](https://www.rupeshtiwari.com/writing/building-blog-with-jekyll-and-github-pages-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
