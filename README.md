@@ -29,6 +29,6 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 
 Rupesh Tiwari\
 www.rupeshtiwari.com \
-✉️ <fullstackmaster1@gmail.com> \
+✉️ <rupesh.tiwari.info@gmail.com> \
 Founder of [www.fullstackmaster.net](https://www.fullstackmaster.net) 🎓 \
 [<img src="https://i.imgur.com/9OCLciM.png" width="295" height="65">](http://www.fullstackmaster.net)
