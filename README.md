@@ -2,6 +2,8 @@
 
 My name is Rupesh Tiwari. I am Sr. Software/Solution Architect, Professional Trainer & Pluralsight Author. I help students and professionals to become Full Stack Software Developer in less Than a year!
 
+![](https://imgur.com/0vP8izF.png)
+
 ### Fullstack Software Development Training
 
 I conduct software development training. Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). If you want to become full stack developer and grow your carrier as Lead Developer/Architect. Visit [Fullstack Master](https://www.fullstackmaster.net) Consider subscribing to my full stack development training programs. We have monthly membership plans and you will get unlimited access to all of our video courses, slides, source code & Monthly video calls.
