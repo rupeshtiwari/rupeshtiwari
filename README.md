@@ -26,7 +26,7 @@ I conduct software development trainings. Here are some of my training materials
 💡
 > You bright future is waiting for you so visit today www.fullstackmaster.net and allow me to help you to board on your dream software architect/lead role.
 
-## Open Source 
+## Creating Open Source 
 
 I write open source on npm and angular technologies. 
 
