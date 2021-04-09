@@ -43,7 +43,7 @@ I write open source on angular & other JavaScript technologies.
 ---
 
 ## Thank you!
-<img src="https://imgur.com/0vP8izF.png"  width="450" height="250"/> \
+<img src="https://imgur.com/0vP8izF.png"  width="450" height="250" /> \
 Rupesh Tiwari\
 www.rupeshtiwari.com \
 ✉️ <rupesh.tiwari.info@gmail.com> \
