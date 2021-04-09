@@ -7,7 +7,7 @@ I am Sr. Software/Solution Architect, Professional Trainer, Pluralsight Author, 
 
 Visit [rupeshtiwari.com](https://rupeshtiwari.com)
 
-## 📩 My latest Blog posts
+## My latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Isolated Process Models for Workers](https://www.rupeshtiwari.com/isolated-process-models-for-workers/)
