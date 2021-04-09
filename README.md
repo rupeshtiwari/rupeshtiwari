@@ -36,7 +36,7 @@ I write open source on npm and angular technologies.
 ---
 
 ### 💖 Contact Details: Say 👋 to me!
-![](https://imgur.com/0vP8izF.png)
+<img src="https://imgur.com/0vP8izF.png"  width="180" height="35"/> \
 Rupesh Tiwari\
 www.rupeshtiwari.com \
 ✉️ <rupesh.tiwari.info@gmail.com> \
