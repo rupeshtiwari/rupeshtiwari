@@ -31,9 +31,9 @@ I conduct software development trainings. Here are some of my training materials
 💡
 > You bright future is waiting for you so visit today www.fullstackmaster.net and allow me to help you to board on your dream software architect/lead role.
 
-## Creating Open Source 
+## Open Source Contribution
 
-I write open source on npm and angular technologies. 
+I write open source on angular & other JavaScript technologies. 
 
 - Visit my public [GitHub Repositories](https://github.com/rupeshtiwari?tab=repositories)
 - Install [angular pub/sub library](https://www.npmjs.com/package/@fsms/angular-pubsub) from npm registry to write event driven angular project without using ngrx. 
