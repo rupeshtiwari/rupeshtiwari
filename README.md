@@ -36,7 +36,7 @@ I write open source on npm and angular technologies.
 ---
 
 ## Thank you!
-<img src="https://imgur.com/0vP8izF.png"  width="500" height="380"/> \
+<img src="https://imgur.com/0vP8izF.png"  width="500" height="300"/> \
 Rupesh Tiwari\
 www.rupeshtiwari.com \
 ✉️ <rupesh.tiwari.info@gmail.com> \
