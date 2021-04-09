@@ -1,19 +1,8 @@
-# Rupesh Tiwari
+# Hi I'm Rupesh Tiwari
 
-My name is Rupesh Tiwari. I am Sr. Software/Solution Architect, Professional Trainer & Pluralsight Author. I help students and professionals to become Full Stack Software Developer in less Than a year!
+I am Sr. Software/Solution Architect, Professional Trainer, Pluralsight Author, Blogger and YouTuber. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
 
-![](https://imgur.com/0vP8izF.png)
-
-### Fullstack Software Development Training
-
-I conduct software development training. Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). If you want to become full stack developer and grow your carrier as Lead Developer/Architect. Visit [Fullstack Master](https://www.fullstackmaster.net) Consider subscribing to my full stack development training programs. We have monthly membership plans and you will get unlimited access to all of our video courses, slides, source code & Monthly video calls.
-
-- Please subscribe to [All Access Membership Pro](www.fullstackmaster.net/pro) to watch angular, node.js and related technology courses.
-- Please subscribe to [All Access Membership Elite](www.fullstackmaster.net/elite) to get everything from PRO plan. Additionally you will get access to monthly live Q&A video call with Rupesh and ask doubts and get more tips and tricks.
-💡
-> You bright future is waiting for you so visit today www.fullstackmaster.net and allow me to help you to board on your dream software architect/lead role.
-
-# 📩 Latest Blog Posts
+## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Isolated Process Models for Workers](https://www.rupeshtiwari.com/isolated-process-models-for-workers/)
@@ -22,6 +11,18 @@ I conduct software development training. Visit my [Fullstack Master YouTube chan
 - [Angular Service as PubSub Message Handler](https://www.rupeshtiwari.com/soa/angular-service-as-message-handler/)
 - [Importing WordPress or Blogger Blogs to Jekyll Blog](https://www.rupeshtiwari.com/writing/importing-wordpress-or-blogger-blogs-to-jekyll-blog/)
 <!-- BLOG-POST-LIST:END -->
+
+![](https://imgur.com/0vP8izF.png)
+
+## Fullstack Software Development Training
+
+I conduct software development training. Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). If you want to become full stack developer and grow your carrier as Lead Developer/Architect. Visit [Fullstack Master](https://www.fullstackmaster.net) consider subscribing to full stack development training programs. We have monthly membership plans and you will get unlimited access to all of our video courses, slides, source code & Monthly video calls.
+
+- Please subscribe to [All Access Membership Pro](www.fullstackmaster.net/pro) to watch **angular, JavaScript, node.js** and related technology courses.
+- Please subscribe to [All Access Membership Elite](www.fullstackmaster.net/elite) to get everything from PRO plan. Additionally you will get access to monthly live Q&A video call with Rupesh and ask doubts and get more tips and tricks.
+💡
+> You bright future is waiting for you so visit today www.fullstackmaster.net and allow me to help you to board on your dream software architect/lead role.
+
 
 ---
 
