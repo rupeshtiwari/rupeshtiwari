@@ -42,4 +42,4 @@ Rupesh Tiwari\
 www.rupeshtiwari.com \
 ✉️ <rupesh.tiwari.info@gmail.com> \
 **Founder** of [www.fullstackmaster.net](https://www.fullstackmaster.net) \
-[<img src="https://i.imgur.com/9OCLciM.png" width="180" height="35">](http://www.fullstackmaster.net)
+[<img src="https://i.imgur.com/9OCLciM.png" width="180" height="40">](http://www.fullstackmaster.net)
