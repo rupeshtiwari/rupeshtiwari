@@ -1,8 +1,9 @@
 # Hi I'm Rupesh Tiwari
 ![](https://imgur.com/kLw0h45.png)
 
+<h3>
 I am Sr. Software/Solution Architect, Professional Trainer, Pluralsight Author, Speaker, Blogger and YouTuber. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net. 
-
+</h3>
 ## Portfolio page
 
 Visit [rupeshtiwari.com](https://rupeshtiwari.com)
