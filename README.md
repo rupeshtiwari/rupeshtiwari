@@ -12,7 +12,7 @@ I am Sr. Software/Solution Architect, Professional Trainer, Pluralsight Author, 
 - [Importing WordPress or Blogger Blogs to Jekyll Blog](https://www.rupeshtiwari.com/writing/importing-wordpress-or-blogger-blogs-to-jekyll-blog/)
 <!-- BLOG-POST-LIST:END -->
 
-## Fullstack Software Development Training
+## Training for Fullstack Software Development
 
 I conduct software development trainings. Here are some of my training materials.
 - Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). 
