@@ -12,11 +12,11 @@ Visit [rupeshtiwari.com](https://rupeshtiwari.com)
 ## Rupesh's latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating New Azure Cosmos DB resources in Visual Studio Code](https://www.rupeshtiwari.com/creating-azure-cosmos-db-resources/)
 - [Bulk Operations in Azure Cosmos DB using TransactionalBatch of .net SDK](https://www.rupeshtiwari.com/transactionalbatch-in-azure-cosmos-db-sdk/)
 - [Isolated Process Models for Workers](https://www.rupeshtiwari.com/isolated-process-models-for-workers/)
 - [Azure Functions Basics](https://www.rupeshtiwari.com/azure-functions-basics/)
 - [Azure Cosmos DB Basics](https://www.rupeshtiwari.com/azure-cosmos-db-basics/)
-- [Angular Service as PubSub Message Handler](https://www.rupeshtiwari.com/soa/angular-service-as-message-handler/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Training for Fullstack Software Development
