@@ -12,11 +12,11 @@ Visit [rupeshtiwari.com](https://rupeshtiwari.com)
 ## Rupesh's latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Your PowerShell Posh &amp; Colorful](https://www.rupeshtiwari.com/make-your-powershell-posh-colorful/)
 - [Azure Sandbox Free Account for Learning](https://www.rupeshtiwari.com/azure-sandbox-free-account-for-learning/)
 - [Creating Cosmos DB from DotNet Core Project](https://www.rupeshtiwari.com/creating-cosmos-db-from-dotnet-core-project/)
 - [Creating New Azure Cosmos DB resources in Visual Studio Code](https://www.rupeshtiwari.com/creating-azure-cosmos-db-resources/)
 - [Bulk Operations in Azure Cosmos DB using TransactionalBatch of .net SDK](https://www.rupeshtiwari.com/transactionalbatch-in-azure-cosmos-db-sdk/)
-- [Isolated Process Models for Workers](https://www.rupeshtiwari.com/isolated-process-models-for-workers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Training for Fullstack Software Development
