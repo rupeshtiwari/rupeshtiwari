@@ -1,6 +1,6 @@
 # Hi I'm Rupesh Tiwari
 
-![](https://imgur.com/kLw0h45.png)
+![](https://imgur.com/KjGKP8X.png)
 
 <h3>
 I am Sr. Software/Solution Architect, Professional Trainer, Pluralsight Author, Speaker, Blogger and YouTuber. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net. 
@@ -31,7 +31,7 @@ I have created & shared many beginner coding examples in my [GitHub Repositories
 
 ### Beginner's Monorepo Coding Examples
 
-In your company if you are trying to do monorepo then consider using [Nx](https://nx.dev). I have couple of coding examples for angular and nx monorepo worth checking them out.
+In your company, are you planning to introduce monorepo? Then consider using [Nx](https://nx.dev) library. I have couple of coding examples for angular and nx monorepo worth checking them out.
 
 - [MonoRepo sample app with Nx library and deploy with Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-nx-monorepo-sample)
 - [Monorepo using Angular workspace](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses
