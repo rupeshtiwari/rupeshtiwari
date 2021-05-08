@@ -22,6 +22,7 @@ Visit [rupeshtiwari.com](https://rupeshtiwari.com)
 ## Training for Fullstack Software Development
 
 I conduct software development trainings. Here are some of my training materials.
+- Build Fullstack Angular real world, cloud deployed application online shopping ecommerce site visit the demo: https://online-shop-ecommerce.herokuapp.com/products
 - Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). 
 - Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
 - Watch [Mastering MEAN.Js for fullstack development](https://fullstackmaster.net/course/3/mastering-meanjs) at fullstackmaster.net. 
