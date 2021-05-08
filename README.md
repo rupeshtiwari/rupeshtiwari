@@ -21,12 +21,14 @@ I have created & shared many beginner coding examples in my [GitHub Repositories
 
 ### Beginner's JavaScript GitHub repos
 
-- [JavaScript basic concepts including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
+- [JavaScript basic concepts tutorial including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
 
 ### Beginner's Angular Coding Examples
 
-- [Angular Beginner sample application](https://github.com/rupeshtiwari/coding-examples-angular-sample-app). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-sample-app/
-- [Build and Deploy Angular app using GitHub Actions](https://github.com/rupeshtiwari/coding-examples-angular-ci-cd-sample-with-github-actions)
+Read my [all Angular related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#angular).
+
+- [Angular Beginner sample application](https://github.com/rupeshtiwari/coding-examples-angular-sample-app) with GitHub Pages deployment. Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-sample-app/
+- [Angular app with GitHub Actions to build and deploy CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-ci-cd-sample-with-github-actions)
 
 ### Beginner's Monorepo Coding Examples
 
