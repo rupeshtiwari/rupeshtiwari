@@ -19,13 +19,22 @@ Visit [rupeshtiwari.com](https://rupeshtiwari.com)
 - [Creating New Azure Cosmos DB resources in Visual Studio Code](https://www.rupeshtiwari.com/creating-azure-cosmos-db-resources/)
 <!-- BLOG-POST-LIST:END -->
 
+## My Open Source Free Contributions
+
+I write open source on angular & other JavaScript technologies. 
+- Learn coding with me, I have many coding examples in my GitHub worth looking at them
+  - [MonoRepo sample using Nx library with Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-nx-monorepo-sample)
+  - [Angular Beginner sample application](https://github.com/rupeshtiwari/coding-examples-angular-sample-app). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-sample-app/
+  - [Monorepo using angular workspace](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses
+- Visit my public [GitHub Repositories](https://github.com/rupeshtiwari?tab=repositories)
+- Created Publish Subscribe Framework for Angular Project. Install [angular pub/sub library](https://www.npmjs.com/package/@fsms/angular-pubsub) from npm registry to write event driven angular project without using ngrx. 
+
 ## Training for Fullstack Software Development
 
 I conduct software development trainings. Here are some of my training materials.
 - Build Fullstack Angular real world, cloud deployed application online shopping ecommerce site. Visit the demo application site: https://online-shop-ecommerce.herokuapp.com/products
 - Create your first JavaScript application using event driven architecture. Visit the demo application site: https://rupesh-user-registration-demo.herokuapp.com/
 - Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). 
-- 
 - Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
 - Watch [Mastering MEAN.Js for fullstack development](https://fullstackmaster.net/course/3/mastering-meanjs) at fullstackmaster.net. 
 - Watch my [RxJS Unit Testing with Marble Diagram course at Pluralsight](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents)
@@ -35,12 +44,6 @@ I conduct software development trainings. Here are some of my training materials
 💡
 > Your bright future is waiting for you so visit today [FullstackMaster](www.fullstackmaster.net) and allow me to help you to board on your dream software company as a new **Software Developer, Architect or Lead Engineer** role.
 
-## My Open Source Contributions
-
-I write open source on angular & other JavaScript technologies. 
-
-- Visit my public [GitHub Repositories](https://github.com/rupeshtiwari?tab=repositories)
-- Created Publish Subscribe Framework for Angular Project. Install [angular pub/sub library](https://www.npmjs.com/package/@fsms/angular-pubsub) from npm registry to write event driven angular project without using ngrx. 
 
 ---
 
