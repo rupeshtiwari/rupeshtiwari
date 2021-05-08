@@ -7,7 +7,6 @@
 ## Rupesh's latest Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
-
 - [CRUD with Cosmos DB using Dotnet Core SDK](https://www.rupeshtiwari.com/crud-with-cosmos-db-and-dotnet-core/)
 - [Make Your PowerShell Posh &amp; Colorful](https://www.rupeshtiwari.com/make-your-powershell-posh-colorful/)
 - [Azure Sandbox Free Account for Learning](https://www.rupeshtiwari.com/azure-sandbox-free-account-for-learning/)
