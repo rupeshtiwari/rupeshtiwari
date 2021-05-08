@@ -4,7 +4,7 @@
 
 > I am Sr. Software/Solution Architect, Professional Trainer, Pluralsight Author, Speaker, Blogger and YouTuber. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
 
-## Rupesh's latest Blog posts ✍️
+## Latest Technical Blog posts for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -58,19 +58,22 @@ I have created one npm package on angular. Angular pub/sub library, install [ang
 
 I run active youtube channel where I post JavaScript, Angular and Azure related videos. Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster).
 
-## Training for Fullstack Software Development 👨🏼‍🏫
+## Do you want to become Software Developer? 👨🏼‍🏫
 
 I conduct software development trainings. Here are some of my training materials.
 
-- Build Fullstack Angular real world, cloud deployed application online shopping ecommerce site. Visit the demo application site: https://online-shop-ecommerce.herokuapp.com/products
-- Create your first JavaScript application using event driven architecture. Visit the demo application site: https://rupesh-user-registration-demo.herokuapp.com/
-
-- Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
-- Watch [Mastering MEAN.Js for full stack development](https://fullstackmaster.net/course/3/mastering-meanjs) at fullstackmaster.net.
-- Watch my [RxJS Unit Testing with Marble Diagram course at Pluralsight](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents)
-- If you want to become **full stack developer** and grow your carrier as Lead Developer/Architect. Visit [Fullstack Master](https://www.fullstackmaster.net) consider subscribing to full stack development training programs. We have monthly membership plans and you will get unlimited access to all of our video courses, slides, source code & Monthly video calls.
+- Build Fullstack Angular real world, cloud deployed application online shopping ecommerce site and deploy over cloud Heroku.. Visit the demo application site: https://online-shop-ecommerce.herokuapp.com/products. Get the complete source code and guided video course to build this project from scratch [Mastering MEAN.Js for full stack development](https://fullstackmaster.net/course/3/mastering-meanjs) at fullstackmaster.net.
+- Create your first JavaScript application using event driven architecture and deploy over cloud Heroku. Visit the demo application site: https://rupesh-user-registration-demo.herokuapp.com/. Get the complete source code and guided videos to create this project from scratch. [Create JavaScript App from Scratch and Deploy to Cloud (Heroku)](https://www.fullstackmaster.net/course/5/javascript-event-driven-app)
+- Advance your Angular skills by mastering RxJS and Higher order RxJS operators. Get the complete source code and guided videos to create this project from scratch. [Mastering RxJS Higher Order Observables](https://www.fullstackmaster.net/course/20/higher-order-observable)
+- If you want to become **full stack developer** and grow your carrier as Lead Developer/Architect. Visit [Fullstack Master](https://www.fullstackmaster.net) consider subscribing to full stack development training programs. If you don't want to buy individual courses then we have monthly membership plans and you will get unlimited access to all of our video courses, slides, source code & Monthly video calls.
   - Please subscribe to [All Access Membership Pro](www.fullstackmaster.net/pro) to watch **angular, JavaScript, node.js** and related technology courses.
   - Please subscribe to [All Access Membership Elite](www.fullstackmaster.net/elite) to get everything from PRO plan. Additionally you will get access to monthly live Q&A video call with Rupesh and ask doubts and get more tips and tricks.
+
+## Rupesh as Pluralsight Author 🧑‍🏫
+
+Now a days RxJS is much popular and testing RxJS is challenge. I would recommend using Marble Diagrams to write specs for your RxJS methods. Learn everything you should know about [RxJS Unit Testing with Marble Diagram course at Pluralsight](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents) from scratch. If you like my course please add ratings and comments. Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
+
+---
 
 > Your bright future is waiting for you so visit today [FullstackMaster](www.fullstackmaster.net) and allow me to help you to board on your dream software company as a new **Software Developer, Architect or Lead Engineer** role.
 
