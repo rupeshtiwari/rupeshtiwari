@@ -19,7 +19,7 @@
 
 I have created & shared many beginner coding examples in my [GitHub Repositories](https://github.com/rupeshtiwari?tab=repositories) which anyone can use to start learning coding.
 
-### Beginner's JavaScript
+### Beginner's JavaScript GitHub repos
 
 - [JavaScript basic concepts including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
 
@@ -32,8 +32,9 @@ I have created & shared many beginner coding examples in my [GitHub Repositories
 
 In your company, are you planning to introduce monorepo? Then consider using [Nx](https://nx.dev) library. I have couple of coding examples for angular and nx monorepo worth checking them out.
 
-- [MonoRepo sample app with Nx library and deploy with Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-nx-monorepo-sample)
-- [Monorepo using Angular workspace](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses
+- [Angular Monorepo with Nx coding example with basic Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-with-nx)
+- [Angular Monorepo with Nx coding example with advance Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-nx-azure-ci-cd)
+- [Angular Monorepo with workspace concepts](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses
 
 ### Beginner's Azure Coding Examples
 
