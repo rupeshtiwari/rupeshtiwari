@@ -7,6 +7,7 @@
 ## Rupesh's latest Blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [CRUD with Cosmos DB using Dotnet Core SDK](https://www.rupeshtiwari.com/crud-with-cosmos-db-and-dotnet-core/)
 - [Make Your PowerShell Posh &amp; Colorful](https://www.rupeshtiwari.com/make-your-powershell-posh-colorful/)
 - [Azure Sandbox Free Account for Learning](https://www.rupeshtiwari.com/azure-sandbox-free-account-for-learning/)
@@ -29,13 +30,15 @@ I have created & shared many beginner coding examples in my [GitHub Repositories
 
 ### Beginner's Monorepo Coding Examples
 
-In your company, are you planning to introduce monorepo? Then consider using [Nx](https://nx.dev) library. I have couple of coding examples for angular and nx monorepo worth checking them out.
+In your company, are you planning to introduce monorepo? Then consider using [Nx](https://nx.dev) library. I have couple of coding examples for angular and nx monorepo worth checking them out. Read my [all monorepo related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#monorepo).
 
 - [Angular Monorepo with Nx coding example with basic Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-with-nx)
 - [Angular Monorepo with Nx coding example with advance Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-nx-azure-ci-cd)
 - [Angular Monorepo with workspace concepts](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses
 
 ### Beginner's Azure Coding Examples
+
+Read all important [azure related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#azure).
 
 - [Secure your .Net MVC app using Azure Identity Provider](https://github.com/rupeshtiwari/coding-examples-azure-secure-webapp)
 
@@ -45,7 +48,9 @@ I also maintain good list of coding gist visit them here: https://gist.github.co
 
 ### Free Angular Npm Packages published
 
-I have created one npm package on angular. Angular pub/sub library, install [angular pub/sub library](https://www.npmjs.com/package/@fsms/angular-pubsub) from npm registry to write event driven angular project without using ngRX.
+I have created one npm package on angular. Angular pub/sub library, install [angular pub/sub library](https://www.npmjs.com/package/@fsms/angular-pubsub) from npm registry to write event driven angular project without using ngRX. Visit my npm organization
+
+- [FSMS npm organization](https://www.npmjs.com/org/fsms)
 
 ## Free video courses on YouTube Channel 📹
 
