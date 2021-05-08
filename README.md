@@ -52,7 +52,7 @@ Read all important [azure related technical blogs for developers here](http://ww
 
 I also maintain good list of coding gist visit them here: https://gist.github.com/rupeshtiwari
 
-### Free Angular Npm packages 
+### Angular npm packages 
 
 I have created one npm package on angular. Angular pub/sub library, install [angular pub/sub library](https://www.npmjs.com/package/@fsms/angular-pubsub) from npm registry to write event driven angular project without using ngRX. Visit my npm organization
 
