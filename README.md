@@ -15,6 +15,10 @@
 - [Creating New Azure Cosmos DB resources in Visual Studio Code](https://www.rupeshtiwari.com/creating-azure-cosmos-db-resources/)
 <!-- BLOG-POST-LIST:END -->
 
+## Free video courses on YouTube Channel 📹
+
+I run active youtube channel where I post JavaScript, Angular and Azure related videos. Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). If you like technical videos and learn from it, please subscribe to my youtube channel to show your support.
+
 ## Rupesh's contributions to Open-Source 🙏
 
 I have created & shared many beginner coding examples in my [GitHub Repositories](https://github.com/rupeshtiwari?tab=repositories) which anyone can use to start learning coding.
@@ -53,10 +57,6 @@ I also maintain good list of coding gist visit them here: https://gist.github.co
 I have created one npm package on angular. Angular pub/sub library, install [angular pub/sub library](https://www.npmjs.com/package/@fsms/angular-pubsub) from npm registry to write event driven angular project without using ngRX. Visit my npm organization
 
 - [FSMS npm organization](https://www.npmjs.com/org/fsms)
-
-## Free video courses on YouTube Channel 📹
-
-I run active youtube channel where I post JavaScript, Angular and Azure related videos. Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster).
 
 ## Do you want to become Software Developer? 👨🏼‍🏫
 
