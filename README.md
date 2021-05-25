@@ -7,6 +7,7 @@
 ## Latest Technical Blog posts for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Hosting N-Service Bus in Azure Functions](https://www.rupeshtiwari.com/using-nservicebus-in-azure-functions/)
 - [Query Document using LINQ on Azure Cosmos DB](https://www.rupeshtiwari.com/query-document-using-linq-on-azure-cosmos-db/)
 - [CRUD with Cosmos DB using Dotnet Core SDK](https://www.rupeshtiwari.com/crud-with-cosmos-db-and-dotnet-core/)
@@ -14,34 +15,40 @@
 - [Azure Sandbox Free Account for Learning](https://www.rupeshtiwari.com/azure-sandbox-free-account-for-learning/)
 <!-- BLOG-POST-LIST:END -->
 
-## Free video courses for developers 📹
+## Free Technical videos for developers 📹
 
-I run active youtube channel where I post JavaScript, Angular and Azure related videos. Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). If you like technical videos and learn from it, please subscribe to my youtube channel to show your support.
+I run active youtube channel where I post JavaScript, Angular and Azure related videos.
+
+- Visit my [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster). If you like technical videos and learn from it, please subscribe to my youtube channel to show your support.
+- Also get [Free videos courses](https://fullstackmaster.net/bundle/detail/3) from Full Stack Master portal.
 
 ## Free source code for developers 🙏
 
 I have created & shared many beginner coding examples in my [GitHub Repositories](https://github.com/rupeshtiwari?tab=repositories) which anyone can use to start learning coding.
 
-### Beginner's JavaScript GitHub repos
+### Coding examples: JavaScript beginners
 
 - [JavaScript basic concepts tutorial including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
 
-### Beginner's Angular Coding Examples
-
-Read my [all Angular related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#angular).
+### Coding examples: Angular beginners
 
 - [Angular Beginner sample application](https://github.com/rupeshtiwari/coding-examples-angular-sample-app) with GitHub Pages deployment. Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-sample-app/
 - [Angular app with GitHub Actions to build and deploy CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-ci-cd-sample-with-github-actions)
 
-### Beginner's Monorepo Coding Examples
+✍️ Read my [all Angular related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#angular).
+
+### Coding examples: Angular advanced
+
+Learn Angular workspace concept:
+
+- [Angular Workspace Sample App](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses
 
 In your company, are you planning to introduce monorepo? Then consider using [Nx](https://nx.dev) library. I have couple of coding examples for angular and nx monorepo worth checking them out. Read my [all monorepo related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#monorepo).
 
-- [Angular Monorepo with Nx coding example with basic Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-with-nx)
-- [Angular Monorepo with Nx coding example with advance Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-nx-azure-ci-cd)
-- [Angular Monorepo with workspace concepts](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample). Visit the demo site: http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses
+- [Angular Monorepo Nrwl.NX sample with _basic_ Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-with-nx)
+- [Angular Monorepo Nrwl.NX sample with _advance_ Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-nx-azure-ci-cd)
 
-### Beginner's Azure Coding Examples
+### Coding examples: Azure 
 
 Read all important [azure related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#azure).
 
