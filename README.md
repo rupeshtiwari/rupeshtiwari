@@ -7,11 +7,11 @@
 ## Latest Technical Blog posts for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Developer Associate Exam Basics](https://www.rupeshtiwari.com/azure-developer-associate-basics/)
 - [Hosting N-Service Bus in Azure Functions](https://www.rupeshtiwari.com/using-nservicebus-in-azure-functions/)
 - [Query Document using LINQ on Azure Cosmos DB](https://www.rupeshtiwari.com/query-document-using-linq-on-azure-cosmos-db/)
 - [CRUD with Cosmos DB using Dotnet Core SDK](https://www.rupeshtiwari.com/crud-with-cosmos-db-and-dotnet-core/)
 - [Make Your PowerShell Posh &amp; Colorful](https://www.rupeshtiwari.com/make-your-powershell-posh-colorful/)
-- [Azure Sandbox Free Account for Learning](https://www.rupeshtiwari.com/azure-sandbox-free-account-for-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Free Technical videos for developers 📹
