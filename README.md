@@ -24,6 +24,7 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Azure Developer Associate Exam Basics](https://www.rupeshtiwari.com/azure-developer-associate-basics/)
 - [Hosting N-Service Bus in Azure Functions](https://www.rupeshtiwari.com/using-nservicebus-in-azure-functions/)
 - [Query Document using LINQ on Azure Cosmos DB](https://www.rupeshtiwari.com/query-document-using-linq-on-azure-cosmos-db/)
@@ -149,6 +150,8 @@ I found my team and myself finding difficulties on below things and I build tool
 Now a days RxJS is much popular and testing RxJS is challenge. I would recommend using Marble Diagrams to write specs for your RxJS methods. Learn everything you should know about [RxJS Unit Testing with Marble Diagram course at Pluralsight](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents) from scratch. If you like my course please add ratings and comments. Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
 
 ## Resume
+
+I have been working on IT industry since 17+ years.
 
 [Rupesh Tiwari as Fullstack Developer/Architect](./Rupesh%20Tiwari%20Fullstack%20Developer%20Architect.pdf)
 
