@@ -1,4 +1,4 @@
-![](https://imgur.com/QViDGj9.png)
+![](https://imgur.com/GxI6ws6.png)
 
 **Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.**
 
