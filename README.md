@@ -33,7 +33,7 @@ Here is what I offer for everyone!
 
 ## JavaScript for beginners
 
-Typescript and JavaScript are both important to learn if you want to become front-end developer or full stack developer using JavaScript node.js.
+Typescript and JavaScript are both important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning.
 
 - [Video: Javascript essential concepts for beginners/interview videos](https://www.youtube.com/watch?v=Kv37h5aReq4&list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd)
   - [Source Code: JavaScript basic concepts tutorial code including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
@@ -48,11 +48,15 @@ Visit [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster) to
 
 ## RxJS for beginners
 
+RxJS is most important topic you should learn if you want to start your carrier in Angular. Here is a most viewable RxJS Youtube videos that will help you to build good foundation on RxJS and reactive programming.
+
 - [RxJS basics for beginners](https://www.youtube.com/watch?v=OQx9z1viWyc&list=PLZed_adPqIJp8x9U9zEPm1fObue7snSyL)
 
 ✍️ Read my [all RxJS related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#rxjs)
 
 ## Angular for beginners
+
+Angular is most popular UI framework that helps you to build modern SPA based frontend projects. If you want to learn angular, checkout below angular resources (videos, source-code, articles).
 
 - [Source Code: Angular Beginner sample application](https://github.com/rupeshtiwari/coding-examples-angular-sample-app) | [Visit the demo site](http://www.rupeshtiwari.com/coding-examples-angular-sample-app/)
 - [Source Code: Angular app CI/CD GitHub Actions Workflows](https://github.com/rupeshtiwari/coding-examples-angular-ci-cd-sample-with-github-actions)
@@ -64,7 +68,7 @@ Visit [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster) to
 
 ## Angular for experts
 
-Learn Angular workspace concept:
+Multiple Angular projects can be combined in a single repo. If you have large team and multiple repos. It will create large churn in the team. Therefore, learn about Angular workspace or monorepo. Here are the resources that will help you to build your monorepo workspace using multiple angular projects.
 
 - [Source Code: Build Angular App using Angular Workspace](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample) | [Visit demo site](http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses)
 
@@ -84,15 +88,21 @@ In your company, are you planning to introduce monorepo? Then consider using [Nx
 
 ## Resume preparation guideline
 
+If you want to prepare you resume and need my guideline then watch below videos.
+
 - [Video: Guideline to prepare your first resume](https://www.youtube.com/watch?v=eUF7xiKz264&list=PLZed_adPqIJoHDWYAmMzIbSc_yeLx4YdW)
 
 ## SOLID Design & Architecture styles
+
+In order to solve big system design problems, you must know about SOLID design principal, Design patterns and Architecture styles. Check out below videos to learn them.
 
 - [Video: SOLID design principal](https://www.youtube.com/watch?v=99EAJRDqsOM&list=PLZed_adPqIJoMn7uhD7IlYTjpJI3fsLd2)
 - [Video: Design Patterns for developers](https://www.youtube.com/playlist?list=PLZed_adPqIJrCYONkdeqM_3z2jA5B7ax0)
 - [Video: CQRS Architecture style](https://www.youtube.com/watch?v=eLG4ag19Zi4&list=PLZed_adPqIJryh92pQrTaKIzy7tWQOlcF)
 
 ## Azure for beginners
+
+Azure is a cloud compute service provider. Make sure you learn any cloud technology. You could learn AWS, Google Cloud or Azure. I am learning Azure now a days. Here are the resources if you want to learn Azure with me then check them out.
 
 - [Secure your .Net MVC app using Azure Identity Provider](https://github.com/rupeshtiwari/coding-examples-azure-secure-webapp)
 - [Video: Azure Site Disaster Recovery Concepts](https://www.youtube.com/playlist?list=PLZed_adPqIJoDWNKApi8UPhUISPmcFUlH)
@@ -102,6 +112,8 @@ In your company, are you planning to introduce monorepo? Then consider using [Nx
 
 ## Projects that I worked on
 
+Here are some more projects that I worked on.
+
 - [AICPA Exam Software](https://exams.aicpa.org/Driver.Web.V3/#/sample/AUD) - This is the project that I work daily. I have created many components both in server and client on this application.
 - [iOS App iReformat using Xamarin](https://apps.apple.com/us/app/ireformat/id969813355)
 - [Online e-commerce App MEAN stack](https://online-shop-ecommerce.herokuapp.com/products)
@@ -110,6 +122,7 @@ In your company, are you planning to introduce monorepo? Then consider using [Nx
 
 I found my team and myself finding difficulties on below things and I build tools/utilities & frameworks to solve them.
 
+- **Multi-monitor browser communication**: I worked on Fujifilm Medical project to show cardio etc. reports on Web application. That was challenging project I had to solve multi-monitor communication issue using JavaScript.
 - **Messaging Framework**: On Angular project by creating pub/sub library that helps to create loosely coupled modules in Angular.
 - **UI Composition problem**: We have many business services while assembling and authoring exams. It is challenging to create website that will have UI components from various services and communicate each other. I leaded the UI composition framework and implemented the solution both in client side (Angular framework) and in Server side ( C# Asp.net ).
 - **Migrating AngularJS to Angular**: Came up with strategy and used new Angular features to simplify while brining AngularJS to Angular framework.
@@ -131,7 +144,7 @@ I found my team and myself finding difficulties on below things and I build tool
 - Playing precaution instruments [like Tabla, Drums](https://www.youtube.com/watch?v=5xNc5ARJmSQ&list=PL4LktSLyuSL7ndc4um5EOaB04yDObupEv&index=1)
 - Reading and writing about spirituality [sample posts](https://www.rupeshtiwari.com/vivekananda/)
 
-## Pluralsight Author 
+## Pluralsight Author
 
 Now a days RxJS is much popular and testing RxJS is challenge. I would recommend using Marble Diagrams to write specs for your RxJS methods. Learn everything you should know about [RxJS Unit Testing with Marble Diagram course at Pluralsight](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents) from scratch. If you like my course please add ratings and comments. Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
 
