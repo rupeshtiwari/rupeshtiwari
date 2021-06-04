@@ -24,7 +24,6 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Azure Developer Associate Exam Basics](https://www.rupeshtiwari.com/azure-developer-associate-basics/)
 - [Hosting N-Service Bus in Azure Functions](https://www.rupeshtiwari.com/using-nservicebus-in-azure-functions/)
 - [Query Document using LINQ on Azure Cosmos DB](https://www.rupeshtiwari.com/query-document-using-linq-on-azure-cosmos-db/)
