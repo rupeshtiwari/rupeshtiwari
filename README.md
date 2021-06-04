@@ -17,6 +17,7 @@ Here is what I offer for everyone!
 - [Mistakes done by Me!](#mistakes-done-by-me)
 - [My Hobbies](#my-hobbies)
 - [Pluralsight Author](#pluralsight-author)
+- [Resume](#resume)
 - [Paid online training for developers & freshers 👨🏼‍🏫](#paid-online-training-for-developers--freshers-)
 - [Thank you!](#thank-you)
 
@@ -146,6 +147,10 @@ I found my team and myself finding difficulties on below things and I build tool
 ## Pluralsight Author
 
 Now a days RxJS is much popular and testing RxJS is challenge. I would recommend using Marble Diagrams to write specs for your RxJS methods. Learn everything you should know about [RxJS Unit Testing with Marble Diagram course at Pluralsight](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents) from scratch. If you like my course please add ratings and comments. Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
+
+## Resume
+
+[Rupesh Tiwari as Fullstack Developer/Architect](./Rupesh%20Tiwari%20Fullstack%20Developer%20Architect.pdf)
 
 ## Paid online training for developers & freshers 👨🏼‍🏫
 
