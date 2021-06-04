@@ -1,6 +1,6 @@
 ![](https://imgur.com/KjGKP8X.png)
 
-I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
+**Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.**
 
 Here is what I offer for everyone!
 
@@ -16,8 +16,8 @@ Here is what I offer for everyone!
 - [Challenges I faced and solved](#challenges-i-faced-and-solved)
 - [Mistakes done by Me!](#mistakes-done-by-me)
 - [My Hobbies](#my-hobbies)
+- [Pluralsight Author](#pluralsight-author)
 - [Paid online training for developers & freshers 👨🏼‍🏫](#paid-online-training-for-developers--freshers-)
-- [Pluralsight Author 🧑‍🏫](#pluralsight-author-)
 - [Thank you!](#thank-you)
 
 ## Latest technical blogs for developers ✍️
@@ -131,6 +131,10 @@ I found my team and myself finding difficulties on below things and I build tool
 - Playing precaution instruments [like Tabla, Drums](https://www.youtube.com/watch?v=5xNc5ARJmSQ&list=PL4LktSLyuSL7ndc4um5EOaB04yDObupEv&index=1)
 - Reading and writing about spirituality [sample posts](https://www.rupeshtiwari.com/vivekananda/)
 
+## Pluralsight Author 
+
+Now a days RxJS is much popular and testing RxJS is challenge. I would recommend using Marble Diagrams to write specs for your RxJS methods. Learn everything you should know about [RxJS Unit Testing with Marble Diagram course at Pluralsight](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents) from scratch. If you like my course please add ratings and comments. Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
+
 ## Paid online training for developers & freshers 👨🏼‍🏫
 
 I conduct software development trainings. Here are some of my training materials you have to buy them though!😃 If you want to become **full stack developer** and grow your carrier as Lead Developer/Architect then consider my training courses.
@@ -143,10 +147,6 @@ I conduct software development trainings. Here are some of my training materials
   - Please subscribe to [All Access Membership Elite](www.fullstackmaster.net/elite) to get **everything from PRO plan** additionally you will get access to **monthly live Q&A video call** with Rupesh and ask doubts and get more tips and tricks.
 
 > Your bright future is waiting for you so visit today [FullstackMaster](www.fullstackmaster.net) and allow me to help you to board on your dream software company as a new **Software Developer, Architect or Lead Engineer** role.
-
-## Pluralsight Author 🧑‍🏫
-
-Now a days RxJS is much popular and testing RxJS is challenge. I would recommend using Marble Diagrams to write specs for your RxJS methods. Learn everything you should know about [RxJS Unit Testing with Marble Diagram course at Pluralsight](https://app.pluralsight.com/library/courses/unit-testing-rxjs-marble-diagrams/table-of-contents) from scratch. If you like my course please add ratings and comments. Visit my [Pluralsight profile](https://app.pluralsight.com/profile/author/rupesh-tiwari)
 
 ## Thank you!
 
