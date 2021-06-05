@@ -61,7 +61,7 @@ Angular is most popular UI framework that helps you to build modern SPA based fr
 - [Source Code: Angular Beginner sample application](https://github.com/rupeshtiwari/coding-examples-angular-sample-app) | [Visit the demo site](http://www.rupeshtiwari.com/coding-examples-angular-sample-app/)
 - [Source Code: Angular app CI/CD GitHub Actions Workflows](https://github.com/rupeshtiwari/coding-examples-angular-ci-cd-sample-with-github-actions)
 - [Video: Learn Angular Dependency Injection from scratch for interview](https://www.youtube.com/watch?v=RDyaFYm6Rfc&list=PLZed_adPqIJrQ5uFoaQg8P_fDNGjpeSRH)
-- [Video: Build Angular Fullstack Application MEAN.JS](https://www.youtube.com/watch?v=njqdreTzAI0&list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD)
+- [Video: Build Angular Fullstack e-Commerce Application MEAN.JS](https://www.youtube.com/watch?v=njqdreTzAI0&list=PLZed_adPqIJrl9pwlERGhU-RCNOtKqvyD)
 - [Video: Learn JWT authentication in Angular and Express](https://www.youtube.com/watch?v=8VG4xkeNNI4&list=PLZed_adPqIJp9M8sXttDmlCzWzat44GRi)
 
 ✍️ Read my [all Angular related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#angular).
