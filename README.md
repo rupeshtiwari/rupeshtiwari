@@ -25,7 +25,6 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Publishing Test Results Using JEST in Angular](https://www.rupeshtiwari.com/publishing-test-result-using-jest-in-angular/)
 - [Azure Developer Associate Exam Basics](https://www.rupeshtiwari.com/azure-developer-associate-basics/)
 - [Hosting N-Service Bus in Azure Functions](https://www.rupeshtiwari.com/using-nservicebus-in-azure-functions/)
