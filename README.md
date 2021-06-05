@@ -12,6 +12,7 @@ Here is what I offer for everyone!
 - [Resume preparation guideline](#resume-preparation-guideline)
 - [SOLID Design & Architecture styles](#solid-design--architecture-styles)
 - [Azure for beginners](#azure-for-beginners)
+- [Computer Science Fundamentals & Techniques](#computer-science-fundamentals--techniques)
 - [Projects that I worked on](#projects-that-i-worked-on)
 - [Challenges I faced and solved](#challenges-i-faced-and-solved)
 - [Mistakes done by Me!](#mistakes-done-by-me)
@@ -24,6 +25,7 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Publishing Test Results Using JEST in Angular](https://www.rupeshtiwari.com/publishing-test-result-using-jest-in-angular/)
 - [Azure Developer Associate Exam Basics](https://www.rupeshtiwari.com/azure-developer-associate-basics/)
 - [Hosting N-Service Bus in Azure Functions](https://www.rupeshtiwari.com/using-nservicebus-in-azure-functions/)
@@ -109,6 +111,10 @@ Azure is a cloud compute service provider. Make sure you learn any cloud technol
 - [Video: Managing Azure Tags Using PowerShell cmdlets](https://www.youtube.com/playlist?list=PLZed_adPqIJrUamBBcr9rYC6GFqbWK1mG)
 
 ✍️ Read my [all Azure related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#azure).
+
+## Computer Science Fundamentals & Techniques
+
+[SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://github.com/rupeshtiwari/coding-examples-cs-fundamentals).
 
 ## Projects that I worked on
 
