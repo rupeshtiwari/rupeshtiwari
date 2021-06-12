@@ -12,7 +12,7 @@ Here is what I offer for everyone!
 - [Resume preparation guideline](#resume-preparation-guideline)
 - [SOLID Design & Architecture styles](#solid-design--architecture-styles)
 - [Azure for beginners](#azure-for-beginners)
-- [Computer Science Fundamentals & Techniques](#computer-science-fundamentals--techniques)
+- [Coding Interview Exercises with Computer Science Fundamentals & Techniques](#computer-science-fundamentals--techniques)
 - [Projects that I worked on](#projects-that-i-worked-on)
 - [Challenges I faced and solved](#challenges-i-faced-and-solved)
 - [Mistakes done by Me!](#mistakes-done-by-me)
