@@ -25,11 +25,11 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Your own Custom JavaScript GitHub Action](https://www.rupeshtiwari.com/creating-javascript-github-action/)
 - [Publishing Test Results Using JEST in Angular](https://www.rupeshtiwari.com/publishing-test-result-using-jest-in-angular/)
 - [Azure Developer Associate Exam Basics](https://www.rupeshtiwari.com/azure-developer-associate-basics/)
 - [Hosting N-Service Bus in Azure Functions](https://www.rupeshtiwari.com/using-nservicebus-in-azure-functions/)
 - [Query Document using LINQ on Azure Cosmos DB](https://www.rupeshtiwari.com/query-document-using-linq-on-azure-cosmos-db/)
-- [CRUD with Cosmos DB using Dotnet Core SDK](https://www.rupeshtiwari.com/crud-with-cosmos-db-and-dotnet-core/)
 <!-- BLOG-POST-LIST:END -->
 
 ## JavaScript for beginners
