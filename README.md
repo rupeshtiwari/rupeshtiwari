@@ -146,6 +146,9 @@ I found my team and myself finding difficulties on below things and I build tool
   - Ruby I learned to create my [blog](https://rupeshtiwari.com)
   - Learned React and React-Native to create iOS and Android apps
   - Learned Xamarin and created & published [iOS App iReformat using Xamarin](https://apps.apple.com/us/app/ireformat/id969813355)
+- Making YouTube Videos for developers
+- Writing blogs for developers
+- Speaking on teachnical topics in local developers seminars
 - Playing precaution instruments [like Tabla, Drums](https://www.youtube.com/watch?v=5xNc5ARJmSQ&list=PL4LktSLyuSL7ndc4um5EOaB04yDObupEv&index=1)
 - Reading and writing about spirituality [sample posts](https://www.rupeshtiwari.com/vivekananda/)
 
