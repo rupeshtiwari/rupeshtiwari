@@ -112,7 +112,7 @@ Azure is a cloud compute service provider. Make sure you learn any cloud technol
 ✍️ Read my [all Azure related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#azure).
 
 ## Computer Science Fundamentals & Techniques
-
+Learn Data-Structure Algorithm and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc. 
 [SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://github.com/rupeshtiwari/coding-examples-cs-fundamentals).
 
 ## Projects that I worked on
