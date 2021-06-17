@@ -209,3 +209,4 @@ www.rupeshtiwari.com \
 ✉️ <rupesh.tiwari.info@gmail.com> \
 **Founder** of [www.fullstackmaster.net](https://www.fullstackmaster.net) \
 [<img src="https://i.imgur.com/9OCLciM.png" width="180" height="40">](http://www.fullstackmaster.net)
+[Rupesh Tiwari Resume](Rupesh%20Tiwari%20Fullstack%20Developer%20Architect.pdf)
