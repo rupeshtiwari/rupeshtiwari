@@ -58,7 +58,7 @@ RxJS is most important topic you should learn if you want to start your carrier 
 ## Angular for beginners
 
 Angular is most popular UI framework that helps you to build modern SPA based frontend projects. If you want to learn angular, checkout below angular resources (videos, source-code, articles).
-
+- [Source Code: Basic Angular Application for beginners](https://github.com/rupeshtiwari/coding-example-angular-introduction)
 - [Source Code: Angular Beginner sample application](https://github.com/rupeshtiwari/coding-examples-angular-sample-app) | [Visit the demo site](http://www.rupeshtiwari.com/coding-examples-angular-sample-app/)
 - [Source Code: Angular app CI/CD GitHub Actions Workflows](https://github.com/rupeshtiwari/coding-examples-angular-ci-cd-sample-with-github-actions)
 - [Video: Learn Angular Dependency Injection from scratch for interview](https://www.youtube.com/watch?v=RDyaFYm6Rfc&list=PLZed_adPqIJrQ5uFoaQg8P_fDNGjpeSRH)
