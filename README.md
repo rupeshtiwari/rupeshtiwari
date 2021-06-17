@@ -26,7 +26,6 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Creating Azure Function in Csharp](https://www.rupeshtiwari.com/creating-azure-function-in-csharp/)
 - [Creating Your own Custom JavaScript GitHub Action](https://www.rupeshtiwari.com/creating-javascript-github-action/)
 - [Publishing Test Results Using JEST in Angular](https://www.rupeshtiwari.com/publishing-test-result-using-jest-in-angular/)
