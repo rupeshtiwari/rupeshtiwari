@@ -38,15 +38,21 @@ Here is what I offer for everyone!
 
 JavaScript is important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning. [Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/) that you will be building after finishing both [client side](#javascript-for-beginners-client-side) and [server side](#express-for-beginners--server-side-) learning materials.
 
-<div style="background-color: #bbfebc">
-Below learning materials will help you to learn JavaScript, Typescript and you will build web application with **Add User** use case only. Please go through the material as listed sequence. Don't jump to last link unless you have not watched the first link.
+<div style="background-color: #efd9fd; padding:20px;border-radius: 25px;margin-bottom:15px">
+<p>
+📑 <b>Note</b>
+</p>
+<p>
+Below learning materials will help you to learn JavaScript from beginning, Typescript. You will be creating web application with <b>Add User</b> use case only. Please go through the material as listed in sequence. Go to next link if you have finished watching previous link.
+</p>
+</div>
 
-- [Video Lesson: Javascript essential concepts for beginners/interview](https://www.youtube.com/watch?v=Kv37h5aReq4&list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd)
+- [Video Lesson: Javascript essential concepts for beginners/interview](https://www.youtube.com/watch?v=Kv37h5aReq4&list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd) These set of videos I will be teaching closure, hoisting, scope and other important concepts in JavaScript. Must watch these videos to build your foundation on JavaScript. Find the source code repositories below:
   - [Source Code: JavaScript basic concepts tutorial code including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
-- [Modeling Session video lesson: Creating User Registration JavaScript app modeling workshop for beginners](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78)
-- [Coding Session video lesson: Javascript Web App to Add User using jQuery](https://www.youtube.com/watch?v=q3GJMwQwDJw&list=PLZed_adPqIJrxedFLbHT6FKPWALxgd_qW) Watch the [modeling session](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78) before watching this videos.
+- [Modeling Session video lessons: Creating User Registration JavaScript app modeling workshop for beginners](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78) This is the modeling session where I have explained in detail how to solve Add, Delete user problem. You must watch these videos to proceed further.
+- [Coding Session video lesson: Javascript Web App to Add User using jQuery](https://www.youtube.com/watch?v=q3GJMwQwDJw&list=PLZed_adPqIJrxedFLbHT6FKPWALxgd_qW) Code along with me to create web app for Add user use case. Watch the [modeling session](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78) before watching this videos. Find the source code repositories below:
   - [Source Code: Add user web app using jQuery and JavaScript](https://github.com/rupeshtiwari/coding-examples-javascript-user-registration-app/tree/workshop-1)
-- [Coding Session: Add user web app using jQuery and Typescript](https://www.youtube.com/playlist?list=PLZed_adPqIJruQ-fd1MWBeLpKJ6RvdaBb)
+- [Coding Session: Add user web app using jQuery and Typescript](https://www.youtube.com/playlist?list=PLZed_adPqIJruQ-fd1MWBeLpKJ6RvdaBb) In this video I will introduce Typescript in add user web app also I will write unit test using jasmine. Find the source code repositories below:
   - [Source Code: Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case)
   - [Source Code: Unit Testing for Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case-tdd)
 
@@ -56,11 +62,11 @@ Below learning materials will help you to learn express and finish the web site 
 **Add and Delete user** use cases with both client and server side coding knowledge.
 
 - [Coding Session video lesson: Introduction to Express with Typescript example add user web app with jQuery](https://www.youtube.com/watch?v=9a1KL9wrREg&list=PLZed_adPqIJprkQa-GeerBtiYW5lRduck&index=2)
-  - [Source Session: Introduction to Express with Typescript example add user web app with jQuery](https://github.com/rupeshtiwari/coding-examples-express-beginner-adduser-typescript)
-  - [Source Code: Integrate server using express and Typescript for Add user web app done previously in JavaScript for beginners section](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/Integrating-Expressjs)
-  - [Source Code: Add and Delete User web app jQuery Typescript and express deploy to heroku cloud](https://github.com/rupeshtiwari/coding-example-javascript-beginner-client-server-app-heroku).
+  - [Source Session: Introduction to Express with Typescript example add user web app with jQuery](https://github.com/rupeshtiwari/coding-examples-express-beginner-adduser-typescript) Introduction to express and make basic http call from jQuery to Express endpoint running on local server.
+  - [Source Code: Integrate server using express and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/Integrating-Expressjs) This is the code for integrating express in Add user web app done previously in [JavaScript for beginners client side section](#javascript-for-beginners-client-side).
+  - [Source Code: Add and Delete User web app jQuery Typescript and express deploy to Heroku cloud](https://github.com/rupeshtiwari/coding-example-javascript-beginner-client-server-app-heroku). This is the complete source code that has add, delete user use case with express and typescript and deployment configuration to deploy Heroku cloud.
 
-[Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/). Here is the final site deployed in Heroku using Typescript, jQuery, express.
+[Visit the site User registration](https://rupesh-user-registration-demo.herokuapp.com/). Here is the final site deployed in Heroku using Typescript, jQuery, express. That you will build together with me by the end of course.
 
 Visit [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster) to get more such videos and playlist.
 
