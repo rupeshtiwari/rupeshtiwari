@@ -5,14 +5,15 @@
 Here is what I offer for everyone!
 
 - [Latest technical blogs for developers ✍️](#latest-technical-blogs-for-developers-️)
-- [JavaScript for beginners](#javascript-for-beginners)
+- [JavaScript for beginners (Client Side)](#javascript-for-beginners-client-side)
+- [Express for beginners ( Server Side )](#express-for-beginners--server-side-)
 - [RxJS for beginners](#rxjs-for-beginners)
 - [Angular for beginners](#angular-for-beginners)
 - [Angular for experts](#angular-for-experts)
 - [Resume preparation guideline](#resume-preparation-guideline)
 - [SOLID Design & Architecture styles](#solid-design--architecture-styles)
 - [Azure for beginners](#azure-for-beginners)
-- [Coding Interview Exercises with Computer Science Fundamentals & Techniques](#computer-science-fundamentals--techniques)
+- [Computer Science Fundamentals & Techniques](#computer-science-fundamentals--techniques)
 - [Projects that I worked on](#projects-that-i-worked-on)
 - [Challenges I faced and solved](#challenges-i-faced-and-solved)
 - [Mistakes done by Me!](#mistakes-done-by-me)
@@ -25,6 +26,7 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Creating Azure Function in Csharp](https://www.rupeshtiwari.com/creating-azure-function-in-csharp/)
 - [Creating Your own Custom JavaScript GitHub Action](https://www.rupeshtiwari.com/creating-javascript-github-action/)
 - [Publishing Test Results Using JEST in Angular](https://www.rupeshtiwari.com/publishing-test-result-using-jest-in-angular/)
@@ -34,8 +36,8 @@ Here is what I offer for everyone!
 
 ## JavaScript for beginners (Client Side)
 
-JavaScript is important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning. 
-🛎️Note: Please go through the material as listed sequence. Dont jump to last link unless you have not watched the first link. 
+JavaScript is important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning.
+🛎️Note: Please go through the material as listed sequence. Don't jump to last link unless you have not watched the first link.
 
 [Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/) that you will be building after finishing below learning materials.
 
@@ -48,17 +50,16 @@ JavaScript is important to learn if you want to become front-end developer or fu
   - [Source Code: Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case)
   - [Source Code: Write JavaScript Unit Test using Jasmine and Typescript for Add user web app](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case-tdd)
 
-
 ## Express for beginners ( Server Side )
+
 - [Coding Session video lesson: Introduction to Express with Typescript example add user web app with jQuery](https://www.youtube.com/watch?v=9a1KL9wrREg&list=PLZed_adPqIJprkQa-GeerBtiYW5lRduck&index=2)
   - [Source Session: Introduction to Express with Typescript example add user web app with jQuery](https://github.com/rupeshtiwari/coding-examples-express-beginner-adduser-typescript)
   - [Source Code: Integrate server using express and Typescript for Add user web app done previously in JavaScript for beginners section](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/Integrating-Expressjs)
-  - [Source Code: Add and Delete User web app jQuery Typescript and express deploy to heroku cloud](https://github.com/rupeshtiwari/coding-example-javascript-beginner-client-server-app-heroku). 
+  - [Source Code: Add and Delete User web app jQuery Typescript and express deploy to heroku cloud](https://github.com/rupeshtiwari/coding-example-javascript-beginner-client-server-app-heroku).
 
-[Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/). Here is the final site deployed in Heroku using Typescript, jQuery, express. 
+[Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/). Here is the final site deployed in Heroku using Typescript, jQuery, express.
 
 Visit [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster) to get more such videos and playlist.
-
 
 ✍️ Read my [all JavaScript related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#javascript).
 
@@ -73,6 +74,7 @@ RxJS is most important topic you should learn if you want to start your carrier 
 ## Angular for beginners
 
 Angular is most popular UI framework that helps you to build modern SPA based frontend projects. If you want to learn angular, checkout below angular resources (videos, source-code, articles).
+
 - [Source Code: Basic Angular Application for beginners](https://github.com/rupeshtiwari/coding-example-angular-introduction)
 - [Source Code: Angular Beginner sample application](https://github.com/rupeshtiwari/coding-examples-angular-sample-app) | [Visit the demo site](http://www.rupeshtiwari.com/coding-examples-angular-sample-app/)
 - [Source Code: Angular app CI/CD GitHub Actions Workflows](https://github.com/rupeshtiwari/coding-examples-angular-ci-cd-sample-with-github-actions)
@@ -127,7 +129,8 @@ Azure is a cloud compute service provider. Make sure you learn any cloud technol
 ✍️ Read my [all Azure related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#azure).
 
 ## Computer Science Fundamentals & Techniques
-Learn Data-Structure Algorithm and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc. 
+
+Learn Data-Structure Algorithm and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc.
 [SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://github.com/rupeshtiwari/coding-examples-interview-coding-datastructure-algorithm-in-javascript).
 
 ## Projects that I worked on
@@ -163,7 +166,7 @@ I found my team and myself finding difficulties on below things and I build tool
   - Learned Xamarin and created & published [iOS App iReformat using Xamarin](https://apps.apple.com/us/app/ireformat/id969813355)
 - Making YouTube Videos for developers
 - Writing blogs for developers
-- Speaking on teachnical topics in local developers seminars
+- Speaking on technical topics in local developers seminars
 - Playing precaution instruments [like Tabla, Drums](https://www.youtube.com/watch?v=5xNc5ARJmSQ&list=PL4LktSLyuSL7ndc4um5EOaB04yDObupEv&index=1)
 - Reading and writing about spirituality [sample posts](https://www.rupeshtiwari.com/vivekananda/)
 
