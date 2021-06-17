@@ -36,6 +36,8 @@ Here is what I offer for everyone!
 
 Typescript and JavaScript are both important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning.
 
+Here is the live site that you will build [JavaScript Beginner App](https://rupesh-user-registration-demo.herokuapp.com/)
+
 - [Video: Javascript essential concepts for beginners/interview videos](https://www.youtube.com/watch?v=Kv37h5aReq4&list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd)
   - [Source Code: JavaScript basic concepts tutorial code including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
 - [Coding Session: Creating User Registration JavaScript app for beginners](https://www.youtube.com/watch?v=q3GJMwQwDJw&list=PLZed_adPqIJrxedFLbHT6FKPWALxgd_qW)
