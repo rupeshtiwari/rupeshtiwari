@@ -1,1 +1,138 @@
-theme: jekyll-theme-minimal
+title: Rupesh Tiwari
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
+twitter_username: rupeshtiwari_co
+github_username: rupeshtiwari
+minimal_mistakes_skin: default
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name: 'Rupesh Tiwari'
+  avatar: '/assets/images/bio-photo.jpg'
+  bio: 'I help students and professionals to become Full Stack Software Developer in less than a year!'
+  links:
+    - label: 'Email'
+      icon: 'fas fa-fw fa-envelope-square'
+      url: 'rupesh.tiwari.info@gmail.com'
+    - label: 'Blogs'
+      icon: 'fa fa-th-large'
+      url: '/posts/'
+    - label: 'Medium'
+      icon: 'fab fa-medium'
+      url: 'https://rupesh-tiwari.medium.com/'
+    - label: 'Dev.to'
+      icon: 'fab fa-dev'
+      url: 'https://dev.to/rupeshtiwari'
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'http://github.com/rupeshtiwari'
+    - label: 'LinkedIn'
+      icon: 'fab fa-fw fa-linkedin'
+      url: 'https://www.linkedin.com/in/rupesh-tiwari'
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
+      url: 'http://twitter.com/rupeshtiwari_co'
+    - label: 'Facebook'
+      icon: 'fab fa-fw fa-facebook-square'
+      url: 'https://www.facebook.com/fullstackmaster1'
+    - label: 'Angular Training'
+      icon: 'fas fa-graduation-cap'
+      url: 'https://www.fullstackmaster.net'
+
+footer:
+  links:
+    - label: 'Rupesh Tiwari'
+      icon: 'fas fa-registered'
+      url: 'https://www.rupeshtiwari.com'
+    - label: 'Facebook'
+      icon: 'fab fa-fw fa-facebook-square'
+      url: 'https://www.facebook.com/fullstackmaster1'
+    - label: 'LinkedIn'
+      icon: 'fab fa-fw fa-linkedin'
+      url: 'https://www.linkedin.com/in/rupesh-tiwari'
+    - label: 'Build Angular App MEAN Stack'
+      icon: 'fab fa-angular'
+      url: 'https://fullstackmaster.net/course/3/mastering-meanjs'
+    - label: 'ELITE Angular Training'
+      icon: 'fas fa-crown'
+      url: 'https://www.fullstackmaster.net/elite'
+    - label: 'PRO Angular Training'
+      icon: 'fas fa-graduation-cap'
+      url: 'https://www.fullstackmaster.net/pro'
+
+defaults:
+  # _posts
+  - scope:
+      path: ''
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: '_pages'
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+analytics:
+  provider: 'google-gtag'
+  google:
+    tracking_id: 'UA-128916623-7'
+    anonymize_ip: false # default
+
+# Social Sharing
+twitter:
+  username: rupeshtiwari_co
+
+facebook:
+  app_id: 421181512329379
+  publisher: https://www.facebook.com/fullstackmaster1
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+  breadcrumbs: true
