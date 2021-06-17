@@ -186,7 +186,7 @@ Now a days RxJS is much popular and testing RxJS is challenge. I would recommend
 
 I have been working on IT industry since 17+ years.
 
-[Rupesh Tiwari as Fullstack Developer/Architect](./Rupesh%20Tiwari%20Fullstack%20Developer%20Architect.pdf)
+[Rupesh Tiwari as Fullstack Developer/Architect](https://github.com/rupeshtiwari/rupeshtiwari/blob/master/docs/Rupesh%20Tiwari%20Fullstack%20Developer%20Architect.pdf)
 
 ## Paid online training for developers & freshers 👨🏼‍🏫
 
