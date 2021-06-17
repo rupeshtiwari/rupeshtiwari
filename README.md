@@ -39,10 +39,10 @@ JavaScript is important to learn if you want to become front-end developer or fu
 
 [Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/) that you will be building after finishing below learning materials.
 
-- [Video: Javascript essential concepts for beginners/interview videos](https://www.youtube.com/watch?v=Kv37h5aReq4&list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd)
+- [Video Lesson: Javascript essential concepts for beginners/interview videos](https://www.youtube.com/watch?v=Kv37h5aReq4&list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd)
   - [Source Code: JavaScript basic concepts tutorial code including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
-- [Modeling Session: Creating User Registration JavaScript app modeling workshop for beginners](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78)
-- [Coding Session: Javascript Web App to Add User using jQuery](https://www.youtube.com/watch?v=q3GJMwQwDJw&list=PLZed_adPqIJrxedFLbHT6FKPWALxgd_qW) Watch the [modeling session](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78) before watching this videos.
+- [Modeling Session video lesson: Creating User Registration JavaScript app modeling workshop for beginners](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78)
+- [Coding Session video lesson: Javascript Web App to Add User using jQuery](https://www.youtube.com/watch?v=q3GJMwQwDJw&list=PLZed_adPqIJrxedFLbHT6FKPWALxgd_qW) Watch the [modeling session](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78) before watching this videos.
   - [Source Code: Add user web app using jQuery and JavaScript](https://github.com/rupeshtiwari/coding-examples-javascript-user-registration-app/tree/workshop-1)
 - [Coding Session: Add user web app using jQuery and Typescript](https://www.youtube.com/playlist?list=PLZed_adPqIJruQ-fd1MWBeLpKJ6RvdaBb)
   - [Source Code: Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case)
