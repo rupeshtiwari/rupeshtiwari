@@ -44,6 +44,7 @@ Here is the live site that you will build [Visit JavaScript Beginner Web Applica
 - [Modeling Session: Creating User Registration JavaScript app modeling workshop for beginners](https://www.youtube.com/watch?v=xRiM_tJqzAg&list=PLZed_adPqIJpo5MmmJNmwpTsovBiAHO78)
 - [Coding Session: Build User Registration Form using Typescript & Webpack](https://www.youtube.com/playlist?list=PLZed_adPqIJruQ-fd1MWBeLpKJ6RvdaBb)
 - [Coding Session: Build Fullstack User Registration Form using express & jQuery](https://www.youtube.com/watch?v=9a1KL9wrREg&list=PLZed_adPqIJprkQa-GeerBtiYW5lRduck&index=2)
+- [Source Code: JavaScript beginner Web Application Client and Server using express and jQuery](https://github.com/rupeshtiwari/coding-example-javascript-beginner-client-server-app)
 
 Visit [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster) to get more such videos and playlist.
 
@@ -115,7 +116,7 @@ Azure is a cloud compute service provider. Make sure you learn any cloud technol
 
 ## Computer Science Fundamentals & Techniques
 Learn Data-Structure Algorithm and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc. 
-[SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://github.com/rupeshtiwari/coding-examples-cs-fundamentals).
+[SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://github.com/rupeshtiwari/coding-examples-interview-coding-datastructure-algorithm-in-javascript).
 
 ## Projects that I worked on
 
