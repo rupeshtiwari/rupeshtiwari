@@ -39,7 +39,9 @@ Here is what I offer for everyone!
 JavaScript is important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning.
 🛎️Note: Please go through the material as listed sequence. Don't jump to last link unless you have not watched the first link.
 
-[Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/) that you will be building after finishing below learning materials.
+[Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/) that you will be building after finishing both [client side](#javascript-for-beginners-client-side) and [server side](#express-for-beginners--server-side-) learning materials.
+
+Below learning materials will help you to learn JavaScript, Typescript and you will build web application with **Add User** use case only.
 
 - [Video Lesson: Javascript essential concepts for beginners/interview](https://www.youtube.com/watch?v=Kv37h5aReq4&list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd)
   - [Source Code: JavaScript basic concepts tutorial code including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
@@ -51,6 +53,9 @@ JavaScript is important to learn if you want to become front-end developer or fu
   - [Source Code: Unit Testing for Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case-tdd)
 
 ## Express for beginners ( Server Side )
+
+Below learning materials will help you to learn express and finish the web site by adding 
+**Add and Delete user** use cases with both client and server side coding knowledge. 
 
 - [Coding Session video lesson: Introduction to Express with Typescript example add user web app with jQuery](https://www.youtube.com/watch?v=9a1KL9wrREg&list=PLZed_adPqIJprkQa-GeerBtiYW5lRduck&index=2)
   - [Source Session: Introduction to Express with Typescript example add user web app with jQuery](https://github.com/rupeshtiwari/coding-examples-express-beginner-adduser-typescript)
