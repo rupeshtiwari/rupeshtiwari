@@ -48,7 +48,7 @@ JavaScript is important to learn if you want to become front-end developer or fu
   - [Source Code: Add user web app using jQuery and JavaScript](https://github.com/rupeshtiwari/coding-examples-javascript-user-registration-app/tree/workshop-1)
 - [Coding Session: Add user web app using jQuery and Typescript](https://www.youtube.com/playlist?list=PLZed_adPqIJruQ-fd1MWBeLpKJ6RvdaBb)
   - [Source Code: Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case)
-  - [Source Code: Write JavaScript Unit Test using Jasmine and Typescript for Add user web app](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case-tdd)
+  - [Source Code: Unit Testing for Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case-tdd)
 
 ## Express for beginners ( Server Side )
 
