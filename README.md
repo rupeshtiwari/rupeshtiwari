@@ -37,7 +37,7 @@ Here is what I offer for everyone!
 JavaScript is important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning. 
 🛎️Note: Please go through the material as listed sequence. Dont jump to last link unless you have not watched the first link. 
 
-Here is the live site that you will build [Visit JavaScript Beginner Web Application SPA](https://rupesh-user-registration-demo.herokuapp.com/)
+[Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/) that you will be building after finishing below learning materials.
 
 - [Video: Javascript essential concepts for beginners/interview videos](https://www.youtube.com/watch?v=Kv37h5aReq4&list=PLZed_adPqIJoGpa6R2QdJy9RnqmOIy1Qd)
   - [Source Code: JavaScript basic concepts tutorial code including hoisting, closure etc.](https://github.com/rupeshtiwari/javascript-concepts).
