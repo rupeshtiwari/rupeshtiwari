@@ -34,7 +34,8 @@ Here is what I offer for everyone!
 
 ## JavaScript for beginners
 
-Typescript and JavaScript are both important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning.
+JavaScript is important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning. 
+🛎️Note: Please go through the material as listed sequence. Dont jump to last link unless you have not watched the first link. 
 
 Here is the live site that you will build [Visit JavaScript Beginner Web Application SPA](https://rupesh-user-registration-demo.herokuapp.com/)
 
