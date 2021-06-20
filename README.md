@@ -148,7 +148,7 @@ Learn below computer science topics from scratch and prepare for coding intervie
 - System Design Fundamentals and 
 - System Design Interview Questions & Answers
 
-[SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://github.com/rupeshtiwari/coding-examples-interview-coding-datastructure-algorithm-in-javascript).
+[SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://www.rupeshtiwari.com/coding-examples-interview-coding-datastructure-algorithm-in-javascript/).
 
 ## Projects that I worked on
 
