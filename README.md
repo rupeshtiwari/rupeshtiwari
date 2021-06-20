@@ -143,8 +143,10 @@ And I got some good experience and here I will take that opportunity to teach yo
 
 Learn below computer science topics from scratch and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc.
 - Data-Structure
-- Algorithms
+- Algorithms 
 - Coding Interview Questions & Answers 
+- System Design Fundamentals and 
+- System Design Interview Questions & Answers
 
 [SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://github.com/rupeshtiwari/coding-examples-interview-coding-datastructure-algorithm-in-javascript).
 
