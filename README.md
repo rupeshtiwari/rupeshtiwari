@@ -138,7 +138,14 @@ Azure is a cloud compute service provider. Make sure you learn any cloud technol
 
 ## Computer Science Fundamentals & Techniques
 
-Learn Data-Structure Algorithm and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc.
+I myself is from Electronics and Tellecommunication Branch. Therefore, I had to learn all computer science fundamental from scratch.
+And I got some good experience and here I will take that opportunity to teach you as well. I hope you will enjoy them and also learn computer science fundamentals. I will try my best to make them very easy and simple for you. You will become problem solver and well equipped with data-structure and algorithm. 
+
+Learn below computer science topics from scratch and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc.
+- Data-Structure
+- Algorithms
+- Coding Interview Questions & Answers 
+
 [SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://github.com/rupeshtiwari/coding-examples-interview-coding-datastructure-algorithm-in-javascript).
 
 ## Projects that I worked on
