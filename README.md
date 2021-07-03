@@ -26,11 +26,11 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Binary Search Concept](https://www.rupeshtiwari.com/binary-search-concept/)
+- [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window-copy/)
 - [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window/)
 - [How to deploy Angular Apps to GitHub Pages (gh-pages) - Setup CI/CD for Angular App with GitHub Action](https://www.rupeshtiwari.com/setup-ci-cd-for-angular-app-with-github-action/)
 - [Caching Dependencies on GitHub Workflows](https://www.rupeshtiwari.com/caching-dependencies-on-github-workflows/)
-- [Creating Azure Function in Csharp](https://www.rupeshtiwari.com/creating-azure-function-in-csharp/)
-- [Creating Your own Custom JavaScript GitHub Action](https://www.rupeshtiwari.com/creating-javascript-github-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ## JavaScript for beginners (Client Side)
