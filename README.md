@@ -27,6 +27,7 @@ Here is what I offer for everyone!
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Binary Search Concept](https://www.rupeshtiwari.com/binary-search-concept/)
 - [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window-copy/)
 - [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window/)
@@ -140,20 +141,24 @@ Azure is a cloud compute service provider. Make sure you learn any cloud technol
 ## Data Structures and Algorithms
 
 I myself is from Electronics and Telecommunication Branch. Therefore, I had to learn all computer science fundamental from scratch.
-And I got some good experience and here I will take that opportunity to teach you as well. I hope you will enjoy them and also learn computer science fundamentals. I will try my best to make them very easy and simple for you. You will become problem solver and well equipped with data-structure and algorithm. 
+And I got some good experience and here I will take that opportunity to teach you as well. I hope you will enjoy them and also learn computer science fundamentals. I will try my best to make them very easy and simple for you. You will become problem solver and well equipped with data-structure and algorithm.
 
 Learn below computer science topics from scratch and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc.
+
 - Data-Structure
-- Algorithms 
-- Coding Interview Questions & Answers 
-- System Design Fundamentals and 
-- System Design Interview Questions & Answers
+- Algorithms
+- Coding Interview Questions & Answers
 
 [Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://www.rupeshtiwari.com/coding-examples-interview-coding-datastructure-algorithm-in-javascript/).
 
 ## System Design Fundamentals
 
-- Source Code: [Replication and Sharding](https://github.com/rupeshtiwari/coding-examples-replication-and-sharding) 
+You will learn below:
+
+- System Design Fundamentals and
+- System Design Interview Questions & Answers
+
+- Source Code: [Replication and Sharding](https://github.com/rupeshtiwari/coding-examples-replication-and-sharding)
 
 ## Projects that I worked on
 
