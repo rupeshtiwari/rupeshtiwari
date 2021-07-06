@@ -13,7 +13,8 @@ Here is what I offer for everyone!
 - [Resume preparation guideline](#resume-preparation-guideline)
 - [SOLID Design & Architecture styles](#solid-design--architecture-styles)
 - [Azure for beginners](#azure-for-beginners)
-- [Computer Science Fundamentals & Techniques](#computer-science-fundamentals--techniques)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [System Design Fundamentals](#system-design-fundamentals)
 - [Projects that I worked on](#projects-that-i-worked-on)
 - [Challenges I faced and solved](#challenges-i-faced-and-solved)
 - [Mistakes done by Me!](#mistakes-done-by-me)
@@ -136,9 +137,9 @@ Azure is a cloud compute service provider. Make sure you learn any cloud technol
 
 ✍️ Read my [all Azure related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#azure).
 
-## Computer Science Fundamentals & Techniques
+## Data Structures and Algorithms
 
-I myself is from Electronics and Tellecommunication Branch. Therefore, I had to learn all computer science fundamental from scratch.
+I myself is from Electronics and Telecommunication Branch. Therefore, I had to learn all computer science fundamental from scratch.
 And I got some good experience and here I will take that opportunity to teach you as well. I hope you will enjoy them and also learn computer science fundamentals. I will try my best to make them very easy and simple for you. You will become problem solver and well equipped with data-structure and algorithm. 
 
 Learn below computer science topics from scratch and prepare for coding interview in Facebook, Amazon, Google, Microsoft etc.
@@ -148,7 +149,11 @@ Learn below computer science topics from scratch and prepare for coding intervie
 - System Design Fundamentals and 
 - System Design Interview Questions & Answers
 
-[SourceCode: Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://www.rupeshtiwari.com/coding-examples-interview-coding-datastructure-algorithm-in-javascript/).
+[Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://www.rupeshtiwari.com/coding-examples-interview-coding-datastructure-algorithm-in-javascript/).
+
+## System Design Fundamentals
+
+- Source Code: [Replication and Sharding](https://github.com/rupeshtiwari/coding-examples-replication-and-sharding) 
 
 ## Projects that I worked on
 
