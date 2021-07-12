@@ -1,8 +1,8 @@
 ![](https://imgur.com/Jtxvmnj.png)
 
-**Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.**
+>Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
 
-Here is what I offer for everyone!
+**Here is what I offer for everyone!**
 
 - [Latest technical blogs for developers ✍️](#latest-technical-blogs-for-developers-️)
 - [JavaScript for beginners (Client Side)](#javascript-for-beginners-client-side)
