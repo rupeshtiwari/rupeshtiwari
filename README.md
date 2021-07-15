@@ -28,7 +28,6 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Microsoft Azure Solution Architect Expert Certification Basics](https://www.rupeshtiwari.com/microsoft-azure-solution-architect-expert-certification-basics/)
 - [Binary Search Concept](https://www.rupeshtiwari.com/binary-search-concept/)
 - [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window-copy/)
