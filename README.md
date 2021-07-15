@@ -1,12 +1,13 @@
 ![](https://imgur.com/Jtxvmnj.png)
 
->Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
+> Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
 
 **Here is what I offer for everyone!**
 
 - [Latest technical blogs for developers ✍️](#latest-technical-blogs-for-developers-️)
-- [JavaScript for beginners (Client Side)](#javascript-for-beginners-client-side)
-- [Express for beginners ( Server Side )](#express-for-beginners--server-side-)
+- [Steps to become Angular developer](#steps-to-become-angular-developer)
+- [Client Side programming using JavaScript for beginners](#client-side-programming-using-javascript-for-beginners)
+- [Server side programming for beginners with JavaScript](#server-side-programming-for-beginners-with-javascript)
 - [RxJS for beginners](#rxjs-for-beginners)
 - [Angular for beginners](#angular-for-beginners)
 - [Angular for experts](#angular-for-experts)
@@ -27,6 +28,7 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Microsoft Azure Solution Architect Expert Certification Basics](https://www.rupeshtiwari.com/microsoft-azure-solution-architect-expert-certification-basics/)
 - [Binary Search Concept](https://www.rupeshtiwari.com/binary-search-concept/)
 - [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window-copy/)
@@ -34,7 +36,18 @@
 - [How to deploy Angular Apps to GitHub Pages (gh-pages) - Setup CI/CD for Angular App with GitHub Action](https://www.rupeshtiwari.com/setup-ci-cd-for-angular-app-with-github-action/)
 <!-- BLOG-POST-LIST:END -->
 
-## JavaScript for beginners (Client Side)
+## Steps to become Angular developer
+
+If you want to become Angular developer follow below steps:
+
+1. Learn basics of Html, CSS and JavaScript from W3school.com.
+2. Make some JavaScript and Typescript projects [check this link](#client-side-programming-using-javascript-for-beginners)
+3. Learn basics of `npm` and `node.js` from w3school or youtube.
+4. Learn server side programming using JavaScript `Express` node package. [Check this link](#server-side-programming-for-beginners-with-javascript)
+5. Next learn RxJS [check this link](#rxjs-for-beginners)
+6. Finally create Angular projects [from basics](#angular-for-beginners) to [advance level](#angular-for-experts).
+
+## Client Side programming using JavaScript for beginners
 
 JavaScript is important to learn if you want to become front-end developer or full stack developer using JavaScript node.js. Here are the list of free video courses that you will enjoy and learn about JavaScript and node.js from beginning. [Visit JavaScript Beginner Web Application](https://rupesh-user-registration-demo.herokuapp.com/) that you will be building after finishing both [client side](#javascript-for-beginners-client-side) and [server side](#express-for-beginners--server-side-) learning materials.
 
@@ -56,7 +69,7 @@ Below learning materials will help you to learn JavaScript from beginning, Types
   - [Source Code: Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case)
   - [Source Code: Unit Testing for Add user web app using jQuery and Typescript](https://github.com/rupeshtiwari/coding-examples-add-user-web-app-using-typescript/tree/add-user-use-case-tdd)
 
-## Express for beginners ( Server Side )
+## Server side programming for beginners with JavaScript
 
 Below learning materials will help you to learn express and finish the web site by adding
 **Add and Delete user** use cases with both client and server side coding knowledge.
