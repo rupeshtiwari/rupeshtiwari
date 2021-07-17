@@ -28,11 +28,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Azure Architect Technologies AZ 303 Introduction](https://www.rupeshtiwari.com/microsoft-azure-architect-technologies-az-303-introduction/)
 - [Microsoft Azure Solution Architect Expert Certification Basics](https://www.rupeshtiwari.com/microsoft-azure-solution-architect-expert-certification-basics/)
 - [Binary Search Concept](https://www.rupeshtiwari.com/binary-search-concept/)
 - [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window-copy/)
 - [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window/)
-- [How to deploy Angular Apps to GitHub Pages (gh-pages) - Setup CI/CD for Angular App with GitHub Action](https://www.rupeshtiwari.com/setup-ci-cd-for-angular-app-with-github-action/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
