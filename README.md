@@ -28,11 +28,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Azure Diagnostics Log](https://www.rupeshtiwari.com/configuring-azure-diagnostics-log/)
 - [Topologies Azure Service Bus](https://www.rupeshtiwari.com/topologies-azure-service-bus/)
 - [Microsoft Azure Architect Technologies AZ 303 Introduction](https://www.rupeshtiwari.com/microsoft-azure-architect-technologies-az-303-introduction/)
 - [Microsoft Azure Solution Architect Expert Certification Basics](https://www.rupeshtiwari.com/microsoft-azure-solution-architect-expert-certification-basics/)
 - [Binary Search Concept](https://www.rupeshtiwari.com/binary-search-concept/)
-- [How to Install Scoop on windows](https://www.rupeshtiwari.com/how-to-install-scoop-on-window-copy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
