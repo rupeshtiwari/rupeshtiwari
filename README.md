@@ -28,11 +28,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring your Virtual Machines with Azure Monitor](https://www.rupeshtiwari.com/monitoring-your-virtual-machines-with-azure-monitor/)
 - [How I cleared Azure Fundamental Certification Az 900](https://www.rupeshtiwari.com/how-i-cleared-azure-fundamental-certification-az-900/)
 - [Azure Security Center Basics](https://www.rupeshtiwari.com/azure-security-center-basics/)
 - [Configuring Azure Diagnostics Log](https://www.rupeshtiwari.com/configuring-azure-diagnostics-log/)
 - [Topologies Azure Service Bus](https://www.rupeshtiwari.com/topologies-azure-service-bus/)
-- [Microsoft Azure Architect Technologies AZ 303 Introduction](https://www.rupeshtiwari.com/microsoft-azure-architect-technologies-az-303-introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
