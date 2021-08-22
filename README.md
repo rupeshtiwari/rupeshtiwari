@@ -1,4 +1,4 @@
-![](https://imgur.com/Jtxvmnj.png)
+![](https://github.com/rupeshtiwari/rupeshtiwari/blob/master/docs/Rupesh%20linked%20in%20Banner%20.jpeg?raw=true)
 
 > Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
 
