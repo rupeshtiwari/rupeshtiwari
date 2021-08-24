@@ -14,6 +14,7 @@
   - [NgRX Sample Apps](#ngrx-sample-apps)
   - [Angular Workspace](#angular-workspace)
   - [Monorepo using NRWL.Nx Framework](#monorepo-using-nrwlnx-framework)
+  - [UI-Composition and Micro-Frontend Example using Angular and NgRx](#ui-composition-and-micro-frontend-example-using-angular-and-ngrx)
 - [Angular npm packages that I created](#angular-npm-packages-that-i-created)
 - [Resume preparation guideline](#resume-preparation-guideline)
 - [SOLID Design & Architecture styles](#solid-design--architecture-styles)
@@ -128,6 +129,15 @@ Do you want to do micro-frontend and build a Composed UI? Suppose your company h
 
 - [Angular Monorepo Nrwl.NX sample](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-with-nx)
 - [Angular Monorepo Nrwl.NX sample with _advance_ Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-nx-azure-ci-cd)
+
+### UI-Composition and Micro-Frontend Example using Angular and NgRx
+
+In general Big ball of mud is not good architecture. Therefore, nowadays microservice architecture is popular. Therefore, in the UI also engineers are trying to apply micro-frontend architecture. I have used angular and ngrx to try to solve UI-Composition and created one e-store app to demonstrate the solution. Feel free to check out the source code and live app.
+
+I have created Application demonstrating UI-Composition using sales and finance service and creating e-commerce online application.
+Here is the live [demo for this app](http://www.rupeshtiwari.com/coding-example-estore-angular-ui-composition/#/products).
+
+- [Source Code for Composed UI demo e-store app](https://github.com/rupeshtiwari/coding-example-estore-angular-ui-composition)
 
 ## Angular npm packages that I created
 
