@@ -33,7 +33,6 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Azure Advisor Basics](https://www.rupeshtiwari.com/azure-advisor-basics/)
 - [Monitoring your Virtual Machines with Azure Monitor](https://www.rupeshtiwari.com/monitoring-your-virtual-machines-with-azure-monitor/)
 - [How I cleared Azure Fundamental Certification Az 900](https://www.rupeshtiwari.com/how-i-cleared-azure-fundamental-certification-az-900/)
