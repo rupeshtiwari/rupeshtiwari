@@ -1,6 +1,6 @@
 ![](https://github.com/rupeshtiwari/rupeshtiwari/blob/master/docs/Rupesh%20linked%20in%20Banner%20.jpeg?raw=true)
 
-> Hi, I am a Sr. Software/Solution Architect, professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
+> Hi, I am a Microsoft Certified Sr. Software/Solution Architect. Currently focusing on Azure cloud solution architecture. I am also a professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
 
 **Here is what I offer to freshers and developers!**
 
@@ -11,6 +11,10 @@
 - [RxJS for beginners](#rxjs-for-beginners)
 - [Angular for beginners](#angular-for-beginners)
 - [Angular for experts](#angular-for-experts)
+  - [NgRX Sample Apps](#ngrx-sample-apps)
+  - [Angular Workspace](#angular-workspace)
+  - [Monorepo using NRWL.Nx Framework](#monorepo-using-nrwlnx-framework)
+- [Angular npm packages that I created](#angular-npm-packages-that-i-created)
 - [Resume preparation guideline](#resume-preparation-guideline)
 - [SOLID Design & Architecture styles](#solid-design--architecture-styles)
 - [Azure for beginners](#azure-for-beginners)
@@ -28,6 +32,7 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Azure Advisor Basics](https://www.rupeshtiwari.com/azure-advisor-basics/)
 - [Monitoring your Virtual Machines with Azure Monitor](https://www.rupeshtiwari.com/monitoring-your-virtual-machines-with-azure-monitor/)
 - [How I cleared Azure Fundamental Certification Az 900](https://www.rupeshtiwari.com/how-i-cleared-azure-fundamental-certification-az-900/)
@@ -107,18 +112,24 @@ Angular is most popular UI framework that helps you to build modern SPA based fr
 
 ## Angular for experts
 
-Multiple Angular projects can be combined in a single repo. If you have large team and multiple repos. It will create large churn in the team. Therefore, learn about Angular workspace or monorepo. Here are the resources that will help you to build your monorepo workspace using multiple angular projects.
+### NgRX Sample Apps
+
+- [Counter App using NgRX](http://www.rupeshtiwari.com/coding-example-angular-ngrx-counter-app/) : [Source code for ngrx counter app](https://github.com/rupeshtiwari/coding-example-angular-ngrx-counter-app).
+
+### Angular Workspace
+
+Multiple Angular projects can be combined in a single repo. If you have large team and multiple repositories. It will create large churn in the team. Therefore, learn about Angular workspace or monorepo. Here are the resources that will help you to build your monorepo workspace using multiple angular projects.
 
 - [Source Code: Build Angular App using Angular Workspace](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample) | [Visit demo site](http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses)
 
-**Monorepo using Angular framework**
+### Monorepo using NRWL.Nx Framework
 
 Do you want to do micro-frontend and build a Composed UI? Suppose your company has various services, for example, customer and sales service. And you want to make a site with composition UI where both services want to show their widgets. How would you attempt it by not creating a monolith in the client side code base? The answer to this question is MonoRepo with Multi Project architecture. I am using the Nrwl.Nx framework to create my monorepo to achieve UI composition. Also in order to isolate the state of services to corresponding services you could consider using NgRX to manage the state of your application. In your company, are you planning to introduce monorepo? Then consider using [Nx](https://nx.dev) library. I have couple of coding examples for angular and nx monorepo worth checking them out.
 
 - [Angular Monorepo Nrwl.NX sample](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-with-nx)
 - [Angular Monorepo Nrwl.NX sample with _advance_ Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-nx-azure-ci-cd)
 
-**Angular npm library that I created**
+## Angular npm packages that I created
 
 - [Angular Pub/Sub Library](https://www.npmjs.com/package/@fsms/angular-pubsub) to write event driven Angular app.
 - [FSMS npm organization](https://www.npmjs.com/org/fsms) to visit more libraries.
