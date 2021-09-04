@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Azure Application Insight in Asp.Net MVC Application](https://www.rupeshtiwari.com/implementing-azure-application-insight-in-asp-net-mvc-application/)
 - [Azure Cost Management &amp; Billing Basics](https://www.rupeshtiwari.com/azure-cost-management-and-billing-basics/)
 - [Azure Advisor Basics](https://www.rupeshtiwari.com/azure-advisor-basics/)
 - [Monitoring your Virtual Machines with Azure Monitor](https://www.rupeshtiwari.com/monitoring-your-virtual-machines-with-azure-monitor/)
 - [How I cleared Azure Fundamental Certification Az 900](https://www.rupeshtiwari.com/how-i-cleared-azure-fundamental-certification-az-900/)
-- [Azure Security Center Basics](https://www.rupeshtiwari.com/azure-security-center-basics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
