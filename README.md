@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Storage - The big picture](https://www.rupeshtiwari.com/the-big-picture-of-azure-storage/)
 - [Monitoring Containers with Azure Monitor](https://www.rupeshtiwari.com/monitoring-containers-with-azure-monitor/)
 - [Visualize Azure Monitor Logs and Metrics](https://www.rupeshtiwari.com/visualize-azure-monitor-logs-and-metrics/)
 - [Implementing Azure Application Insight in Asp.Net MVC Application](https://www.rupeshtiwari.com/implementing-azure-application-insight-in-asp-net-mvc-application/)
 - [Azure Cost Management &amp; Billing Basics](https://www.rupeshtiwari.com/azure-cost-management-and-billing-basics/)
-- [Azure Advisor Basics](https://www.rupeshtiwari.com/azure-advisor-basics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
