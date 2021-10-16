@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Demo Initiating Azure Storage Account Failover](https://www.rupeshtiwari.com/demo-initiating-azure-storage-account-failover/)
 - [Azure Storage Replications Basics](https://www.rupeshtiwari.com/azure-storage-replications-basics/)
 - [Azure Blob Access Tiers and Lifecycle Management](https://www.rupeshtiwari.com/azure-blob-access-tiers-and-lifecycle-management/)
 - [Azure Storage - The big picture](https://www.rupeshtiwari.com/the-big-picture-of-azure-storage/)
 - [Monitoring Containers with Azure Monitor](https://www.rupeshtiwari.com/monitoring-containers-with-azure-monitor/)
-- [Visualize Azure Monitor Logs and Metrics](https://www.rupeshtiwari.com/visualize-azure-monitor-logs-and-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
