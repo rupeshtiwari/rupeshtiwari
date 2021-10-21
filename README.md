@@ -179,6 +179,8 @@ Learn below computer science topics from scratch and prepare for coding intervie
 
 [Learn Data-Structure & Algorithms, Solve many interview coding questions using JavaScript](https://www.rupeshtiwari.com/coding-examples-interview-coding-datastructure-algorithm-in-javascript/).
 
+[Learn DataStructure](https://github.com/rupeshtiwari/coding-examples-datastructures)
+
 ## System Design Fundamentals
 
 You will learn below:
