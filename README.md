@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Monitor and Application Insights Introduction](https://www.rupeshtiwari.com/azure-monitor-and-application-insights-introduction/)
 - [Monitoring Options for Applications in Azure](https://www.rupeshtiwari.com/monitoring-options-for-applications-in-azure/)
 - [Configuring Azure Blob Storage](https://www.rupeshtiwari.com/configuring-azure-blob-storage/)
 - [Creating Azure Storage Account](https://www.rupeshtiwari.com/creating-azure-storage-account/)
 - [Microsoft Azure Fundamental Questions](https://www.rupeshtiwari.com/microsoft-azure-fundamental-questions/)
-- [Demo Initiating Azure Storage Account Failover](https://www.rupeshtiwari.com/demo-initiating-azure-storage-account-failover/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
