@@ -33,7 +33,6 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Azure Monitor and Application Insights Introduction](https://www.rupeshtiwari.com/azure-monitor-and-application-insights-introduction/)
 - [Monitoring Options for Applications in Azure](https://www.rupeshtiwari.com/monitoring-options-for-applications-in-azure/)
 - [Configuring Azure Blob Storage](https://www.rupeshtiwari.com/configuring-azure-blob-storage/)
