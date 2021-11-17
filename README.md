@@ -33,6 +33,7 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Azure Monitor and Application Insights Introduction](https://www.rupeshtiwari.com/azure-monitor-and-application-insights-introduction/)
 - [Monitoring Options for Applications in Azure](https://www.rupeshtiwari.com/monitoring-options-for-applications-in-azure/)
 - [Configuring Azure Blob Storage](https://www.rupeshtiwari.com/configuring-azure-blob-storage/)
@@ -125,6 +126,10 @@ Multiple Angular projects can be combined in a single repo. If you have large te
 ### Monorepo using NRWL.Nx Framework
 
 Do you want to do micro-frontend and build a Composed UI? Suppose your company has various services, for example, customer and sales service. And you want to make a site with composition UI where both services want to show their widgets. How would you attempt it by not creating a monolith in the client side code base? The answer to this question is MonoRepo with Multi Project architecture. I am using the Nrwl.Nx framework to create my monorepo to achieve UI composition. Also in order to isolate the state of services to corresponding services you could consider using NgRX to manage the state of your application. In your company, are you planning to introduce monorepo? Then consider using [Nx](https://nx.dev) library. I have couple of coding examples for angular and nx monorepo worth checking them out.
+
+- [Article for getting started with Nx Monorepo](https://www.rupeshtiwari.com/getting-started-with-monorepo-with-nx-nrwl/)
+
+**GitHub Source for Nx Monorepo**
 
 - [Angular Monorepo Nrwl.NX sample](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-with-nx)
 - [Angular Monorepo Nrwl.NX sample with _advance_ Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-nx-azure-ci-cd)
