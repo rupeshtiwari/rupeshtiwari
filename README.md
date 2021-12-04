@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Where to Store Application Data in Azure](https://www.rupeshtiwari.com/where-to-store-application-data-in-azure/)
 - [What to use to Run applications in Azure](https://www.rupeshtiwari.com/what-should-you-use-for-running-applications-in-azure/)
 - [Azure Network Watcher Basics](https://www.rupeshtiwari.com/azure-network-watcher-basics/)
 - [Getting Started with Monorepo with Nx Nrwl](https://www.rupeshtiwari.com/getting-started-with-monorepo-with-nx-nrwl/)
 - [Azure Monitor and Application Insights Introduction](https://www.rupeshtiwari.com/azure-monitor-and-application-insights-introduction/)
-- [Monitoring Options for Applications in Azure](https://www.rupeshtiwari.com/monitoring-options-for-applications-in-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
