@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Azure Virtual Machine Scale Sets](https://www.rupeshtiwari.com/what-is-azure-virtual-machine-scale-sets/)
 - [Create Update and Delete Tags on Azure Resource](https://www.rupeshtiwari.com/create-update-and-delete-tags-on-azure-resource/)
 - [On-Premises Disaster Site Recovery Strategy with Azure VM](https://www.rupeshtiwari.com/on-premises-disaster-site-recovery-strategy-in-azure/)
 - [Site Recovery Strategy in Azure](https://www.rupeshtiwari.com/site-recoverystrategy-in-azure/)
 - [Where to Store Application Data in Azure](https://www.rupeshtiwari.com/where-to-store-application-data-in-azure/)
-- [What to use to Run applications in Azure](https://www.rupeshtiwari.com/what-should-you-use-for-running-applications-in-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
