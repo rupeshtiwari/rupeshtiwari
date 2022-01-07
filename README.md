@@ -1,4 +1,4 @@
-![](https://github.com/rupeshtiwari/rupeshtiwari/blob/master/docs/Rupesh%20linked%20in%20Banner%20.jpeg?raw=true)
+![](https://i.imgur.com/TNTiEw2.jpg)
 
 > Hi, I am a Microsoft Certified Sr. Software/Solution Architect. Currently focusing on Azure cloud solution architecture. I am also a professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
 
