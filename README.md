@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud Solution Architect Technical Interview Questions](https://www.rupeshtiwari.com/cloud-solution-architect-technical-interview-questions/)
 - [Server Deployment Strategies and Storage Spaces Direct Fault Tolerance in Azure](https://www.rupeshtiwari.com/server-deployment-strategies-and-storage-spaces-direct-fault-tolerence-in-azure/)
 - [Introduction to Azure Infrastructure Architecture](https://www.rupeshtiwari.com/introduction-to-azure-infrastructure-architecture/)
 - [What is Azure Virtual Machine Scale Sets](https://www.rupeshtiwari.com/what-is-azure-virtual-machine-scale-sets/)
 - [Create Update and Delete Tags on Azure Resource](https://www.rupeshtiwari.com/create-update-and-delete-tags-on-azure-resource/)
-- [On-Premises Disaster Site Recovery Strategy with Azure VM](https://www.rupeshtiwari.com/on-premises-disaster-site-recovery-strategy-in-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
