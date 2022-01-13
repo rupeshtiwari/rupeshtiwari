@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- [How to improve Reliability in the cloud?](https://www.rupeshtiwari.com/how-to-improve-reliability-in-the-cloud/)
-- [Cost Optimization with Amazon EC2 Spot Instances](https://www.rupeshtiwari.com/cost-optimization-with-aws-spot-ec2-instances/)
-- [Cloud Security Defense In-Depth Azure Approach](https://www.rupeshtiwari.com/cloud-security-defense-in-depth-azure-approach/)
-- [How to Maintain Well-Architected-Framework on Cloud](https://www.rupeshtiwari.com/how-to-maintain-well-architected-framework-on-cloud/)
-- [Introduction to Multi Cloud and Strategy](https://www.rupeshtiwari.com/introduction-to-multi-cloud-and-strategy/)
+- [Server Deployment Strategies and Storage Spaces Direct Fault Tolerance in Azure](https://www.rupeshtiwari.com/server-deployment-strategies-and-storage-spaces-direct-fault-tolerence-in-azure/)
+- [Introduction to Azure Infrastructure Architecture](https://www.rupeshtiwari.com/introduction-to-azure-infrastructure-architecture/)
+- [What is Azure Virtual Machine Scale Sets](https://www.rupeshtiwari.com/what-is-azure-virtual-machine-scale-sets/)
+- [Create Update and Delete Tags on Azure Resource](https://www.rupeshtiwari.com/create-update-and-delete-tags-on-azure-resource/)
+- [On-Premises Disaster Site Recovery Strategy with Azure VM](https://www.rupeshtiwari.com/on-premises-disaster-site-recovery-strategy-in-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
