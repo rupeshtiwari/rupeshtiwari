@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap for mastering Coding &amp;amp; Competitive Programming interview](https://www.rupeshtiwari.com/roadmap-for-mastering-competitive-programming-for-beginners/)
 - [How to start preparing for coding interview](https://www.rupeshtiwari.com/how-to-start-preparing-for-coding-interview/)
 - [Introduction of Azure Data Center](https://www.rupeshtiwari.com/introduction-of-azure-data-center/)
 - [Cloud Solution Architect Soft Skills Questions](https://www.rupeshtiwari.com/cloud-solution-architect-soft-skills-questions/)
 - [Cloud Solution Architect Technical Interview Questions](https://www.rupeshtiwari.com/cloud-solution-architect-technical-interview-questions/)
-- [Server Deployment Strategies and Storage Spaces Direct Fault Tolerance in Azure](https://www.rupeshtiwari.com/server-deployment-strategies-and-storage-spaces-direct-fault-tolerence-in-azure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
