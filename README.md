@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Availability Set Vs Availability Zone](https://www.rupeshtiwari.com/azure-availability-set-vs-availability-zone/)
 - [Azure Update Domain vs Fault Domain](https://www.rupeshtiwari.com/azure-update-domain-vs-fault-domain/)
 - [Roadmap for mastering Coding &amp;amp; Competitive Programming interview](https://www.rupeshtiwari.com/roadmap-for-mastering-competitive-programming-for-beginners/)
 - [How to start preparing for coding interview](https://www.rupeshtiwari.com/how-to-start-preparing-for-coding-interview/)
 - [Introduction of Azure Data Center](https://www.rupeshtiwari.com/introduction-of-azure-data-center/)
-- [Cloud Solution Architect Soft Skills Questions](https://www.rupeshtiwari.com/cloud-solution-architect-soft-skills-questions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
