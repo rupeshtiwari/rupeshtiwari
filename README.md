@@ -33,11 +33,11 @@
 ## Latest technical blogs for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Availability Set Vs Availability Zone](https://www.rupeshtiwari.com/azure-availability-set-vs-availability-zone/)
-- [Azure Update Domain vs Fault Domain](https://www.rupeshtiwari.com/azure-update-domain-vs-fault-domain/)
-- [Roadmap for mastering Coding &amp;amp; Competitive Programming interview](https://www.rupeshtiwari.com/roadmap-for-mastering-competitive-programming-for-beginners/)
-- [How to start preparing for coding interview](https://www.rupeshtiwari.com/how-to-start-preparing-for-coding-interview/)
-- [Introduction of Azure Data Center](https://www.rupeshtiwari.com/introduction-of-azure-data-center/)
+- [How to improve Reliability in the cloud?](https://www.rupeshtiwari.com/how-to-improve-reliability-in-the-cloud/)
+- [Cloud Security Defense In-Depth Azure Approach](https://www.rupeshtiwari.com/cloud-security-defense-in-depth-azure-approach/)
+- [Cost Optimization with Amazon EC2 Spot Instances](https://www.rupeshtiwari.com/cost-optimization-with-aws-spot-ec2-instances/)
+- [How to Maintain Well-Architected-Framework on Cloud](https://www.rupeshtiwari.com/how-to-maintain-well-architected-framework-on-cloud/)
+- [Introduction to CAP Theorem](https://www.rupeshtiwari.com/introduction-to-cap-theorem/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Steps to become Angular developer
