@@ -2,7 +2,7 @@
 
 > Hi, I am a Microsoft Certified Sr. Software/Solution Architect. Currently focusing on Azure cloud solution architecture. I am also a professional trainer, Pluralsight author, speaker, blogger and YouTuber. I am passionate about problem solving and learning new technologies. I help students and professionals to become Full Stack Software Developer in less than a year! I am the founder of Fullstackmaster.net.
 
-**Here is what I offer to freshers and developers!**
+**Here is what I offer FREE resources to freshers and developers!**
 
 - [Latest technical blogs for developers ✍️](#latest-technical-blogs-for-developers-️)
 - [Steps to become Angular developer](#steps-to-become-angular-developer)
@@ -30,7 +30,7 @@
 - [Paid online training for developers & freshers 👨🏼‍🏫](#paid-online-training-for-developers--freshers-)
 - [Thank you!](#thank-you)
 
-## Latest technical blogs for developers ✍️
+## Latest technical blogs FREE for developers ✍️
 
 <!-- BLOG-POST-LIST:START -->
 - [How to improve Reliability in the cloud?](https://www.rupeshtiwari.com/how-to-improve-reliability-in-the-cloud/)
@@ -89,7 +89,7 @@ Visit [Fullstack Master YouTube channel](https://youtube.com/fullstackmaster) to
 
 ✍️ Read my [all JavaScript related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#javascript).
 
-## RxJS for beginners
+## RxJS for beginners FREE
 
 RxJS is most important topic you should learn if you want to start your carrier in Angular. Here is a most viewable RxJS Youtube videos that will help you to build good foundation on RxJS and reactive programming.
 
@@ -97,7 +97,7 @@ RxJS is most important topic you should learn if you want to start your carrier 
 
 ✍️ Read my [all RxJS related technical blogs for developers here](http://www.rupeshtiwari.com/tags/#rxjs)
 
-## Angular for beginners
+## Angular for beginners FREE
 
 Angular is most popular UI framework that helps you to build modern SPA based frontend projects. If you want to learn angular, checkout below angular resources (videos, source-code, articles).
 
@@ -112,17 +112,17 @@ Angular is most popular UI framework that helps you to build modern SPA based fr
 
 ## Angular for experts
 
-### NgRX Sample Apps
+### NgRX Sample Apps FREE
 
 - [Counter App using NgRX](http://www.rupeshtiwari.com/coding-example-angular-ngrx-counter-app/) : [Source code for ngrx counter app](https://github.com/rupeshtiwari/coding-example-angular-ngrx-counter-app).
 
-### Angular Workspace
+### Angular Workspace FREE
 
 Multiple Angular projects can be combined in a single repo. If you have large team and multiple repositories. It will create large churn in the team. Therefore, learn about Angular workspace or monorepo. Here are the resources that will help you to build your monorepo workspace using multiple angular projects.
 
 - [Source Code: Build Angular App using Angular Workspace](https://github.com/rupeshtiwari/coding-examples-angular-workspace-sample) | [Visit demo site](http://www.rupeshtiwari.com/coding-examples-angular-workspace-sample/#/courses)
 
-### Monorepo using NRWL.Nx Framework
+### Monorepo using NRWL.Nx Framework FREE
 
 Do you want to do micro-frontend and build a Composed UI? Suppose your company has various services, for example, customer and sales service. And you want to make a site with composition UI where both services want to show their widgets. How would you attempt it by not creating a monolith in the client side code base? The answer to this question is MonoRepo with Multi Project architecture. I am using the Nrwl.Nx framework to create my monorepo to achieve UI composition. Also in order to isolate the state of services to corresponding services you could consider using NgRX to manage the state of your application. In your company, are you planning to introduce monorepo? Then consider using [Nx](https://nx.dev) library. I have couple of coding examples for angular and nx monorepo worth checking them out.
 
@@ -133,7 +133,7 @@ Do you want to do micro-frontend and build a Composed UI? Suppose your company h
 - [Angular Monorepo Nrwl.NX sample](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-with-nx)
 - [Angular Monorepo Nrwl.NX sample with _advance_ Azure CI/CD](https://github.com/rupeshtiwari/coding-examples-angular-monorepo-nx-azure-ci-cd)
 
-### UI-Composition and Micro-Frontend Example using Angular and NgRx
+### UI-Composition and Micro-Frontend Example using Angular and NgRx FREE
 
 In general Big ball of mud is not good architecture. Therefore, nowadays microservice architecture is popular. Therefore, in the UI also engineers are trying to apply micro-frontend architecture. I have used angular and ngrx to try to solve UI Composition and created one e-store app to demonstrate the solution. Feel free to check out the source code and live app. I have created composed ui application demonstrating using sales and finance services and creating e-commerce online application to show products, cart and checkout pages. Here is the live [demo for ui composition example/demo app](http://www.rupeshtiwari.com/coding-example-estore-angular-ui-composition/#/products).
 
